@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/OKS/07/Common.xsl"?>
+
+<KVOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvoks/3.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Building CadastralNumber="78:14:0007617:1008" State="01"
+DateCreated="2012-08-29"
+>
+<CadastralBlocks>
+<CadastralBlock>78:14:0007623</CadastralBlock>
+</CadastralBlocks>
+<ObjectType>002001002000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumber>78:14:0007617:4</CadastralNumber>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="03" Number="78:14:7617:4:21" />
+</OldNumbers>
+<Name>Административно-производственный корпус</Name>
+<AssignationBuilding>204001000000</AssignationBuilding>
+<ElementsConstruct>
+<param:Material Wall="061001001001" />
+</ElementsConstruct>
+<ExploitationChar YearUsed="1955" />
+<Floors Floors="3" />
+<Area>5478.1</Area>
+<Address>
+<adrs:OKATO>40284561000</adrs:OKATO>
+<adrs:KLADR>78000000000024200</adrs:KLADR>
+<adrs:Region>78</adrs:Region>
+<adrs:Street Name="Витебский" Type="пр-кт" />
+<adrs:Level1 Type="д" Value="9" />
+<adrs:Level3 Type="литера" Value="А" />
+<adrs:Note>г.Санкт-Петербург, Витебский проспект, дом 9, литера А</adrs:Note>
+</Address>
+<CadastralCost Value="72915173.6" Unit="383" />
+<Notes> Сведения о количестве этажей, в том числе подземных этажей имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с количеством этажей, в том числе подземных этажей отсутствует.</Notes>
+<Flats>
+<Flat CadastralNumber="78:14:0007617:1038" >
+<Area>4315.6</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="1-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1039" >
+<Area>8.9</Area>
+<PositionInObject>
+<Levels>
+<Level Number="чердак" Type="09">
+<Position NumberOnPlan="10-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1040" >
+<Area>5.6</Area>
+<PositionInObject>
+<Levels>
+<Level Number="чердак" Type="09">
+<Position NumberOnPlan="11-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1041" >
+<Area>46.3</Area>
+<PositionInObject>
+<Levels>
+<Level Number="мезонин-надстройка" Type="03">
+<Position NumberOnPlan="12-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1054" >
+<Area>70.1</Area>
+<PositionInObject>
+<Levels>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="8-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1055" >
+<Area>247.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="9-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1053" >
+<Area>255.2</Area>
+<PositionInObject>
+<Levels>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="7-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1056" >
+<Area>268.1</Area>
+<PositionInObject>
+<Levels>
+<Level Number="чердак" Type="09">
+<Position NumberOnPlan="б/н1">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1042" >
+<Area>46.3</Area>
+<PositionInObject>
+<Levels>
+<Level Number="мезонин-надстройка" Type="03">
+<Position NumberOnPlan="13-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1046" >
+<Area>59.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="17-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1043" >
+<Area>46.3</Area>
+<PositionInObject>
+<Levels>
+<Level Number="мезонин-надстройка" Type="03">
+<Position NumberOnPlan="14-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1044" >
+<Area>46.3</Area>
+<PositionInObject>
+<Levels>
+<Level Number="мезонин-надстройка" Type="03">
+<Position NumberOnPlan="15-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1045" >
+<Area>75.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="16-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1047" >
+<Area>63.1</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="1ЛК">
+</Position>
+</Level>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="1ЛК">
+</Position>
+</Level>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="1ЛК">
+</Position>
+</Level>
+<Level Number="чердак" Type="09">
+<Position NumberOnPlan="1ЛК">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1048" >
+<Area>11.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1049" >
+<Area>64.1</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2ЛК">
+</Position>
+</Level>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="2ЛК">
+</Position>
+</Level>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="2ЛК">
+</Position>
+</Level>
+<Level Number="чердак" Type="09">
+<Position NumberOnPlan="2ЛК">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1051" >
+<Area>30.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="5-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1050" >
+<Area>39.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="4-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="78:14:0007617:1052" >
+<Area>45.4</Area>
+<PositionInObject>
+<Levels>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="6-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+</Flats>
+</Building>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348220077</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="мск 64" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Львов Иван Сергеевич" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348220077"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154230995"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Львов Иван Сергеевич</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>29461533078</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Открытое акционерное общество &quot;Грузовое автотранспортное предприятие 21&quot;, ИНН: 7810640731</Content>
+<Name>Открытое акционерное общество &quot;Грузовое автотранспортное предприятие 21&quot;</Name>
+<INN>7810640731</INN>
+</Organization>
+</Owner>
+<Registration >
+<ID_Record>721522045778</ID_Record>
+<RegNumber>454310.1</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 454310.1 от 05.10.1999</Name>
+<RegDate>05.10.1999</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Львов Иван Сергеевич</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVOKS>

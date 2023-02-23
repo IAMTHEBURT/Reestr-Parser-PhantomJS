@@ -1,0 +1,61 @@
+version: "3.8"
+services:
+
+  #PHP services
+  php:
+    build:
+      context: .
+      dockerfile: php.dockerfile
+    restart: unless-stopped
+    volumes:
+      - ./://var/www
+
+  #CRON services
+  cron:
+    build:
+      context: .
+      dockerfile: cron.dockerfile
+    restart: unless-stopped
+    volumes:
+      - ./://var/www
+
+  #NGINX
+  nginx:
+    image: nginx:latest
+    restart: unless-stopped
+    ports: 
+      - 80:80
+    volumes:
+      - ./://var/www
+      - ./nginx/conf.d:/etc/nginx/conf.d
+    links:
+      - php
+
+  # DATABASE
+  database:
+    image: mysql:8.0
+    ports:
+      - 8080:3306
+    restart: unless-stopped
+    environment:
+      - MYSQL_DATABASE=${DB_DATABASE}
+      - MYSQL_USER=${DB_USERNAME}
+      - MYSQL_PASSWORD=${DB_PASSWORD}
+      - MYSQL_ROOT_PASSWORD=secret_root_password21Kjhwhr_2jkewhf-
+    volumes:
+      - db-data:/var/lib/mysql
+
+  # PHP MY ADMIN
+  phpmyadmin:
+    image: phpmyadmin:latest
+    links:
+      - database
+    environment:
+      PMA_HOST: database
+      PMA_PORT: 3306
+      PMA_ARBITRARY: 1
+    restart: unless-stopped
+    ports:
+      - 8081:80
+volumes:
+  db-data: ~

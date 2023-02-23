@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2020-09-15"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="Смагина Татьяна Ивановна" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2020/348026615"
+                         ExtractDate="15.09.2020"
+                         RequeryNumber="80-154244444"
+                         RequeryDate="15.09.2020"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>Смагина Татьяна Ивановна</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 15.09.2020 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>10346834380</ID_Object>
+        <CadastralNumber>77:01:0004020:1731</CadastralNumber>
+        <ObjectType>002002002000</ObjectType>
+        <ObjectTypeText>Помещение</ObjectTypeText>
+        <Name>Жилые помещения</Name>
+        <Assignation_Code>005001000000</Assignation_Code>
+        <Assignation_Code_Text>Жилое</Assignation_Code_Text>
+        <Area>
+            <Area>99</Area>
+            <AreaText>99 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <Inv_No>69 </Inv_No>
+        <FloorPlan_No>
+            <Explication>0006120/0069</Explication>
+        </FloorPlan_No>
+        <Address>
+        <Content>г Москва, ул Большая Грузинская, д 39, кв 69</Content>
+        <Region Name="Г. Москва" Code="77"/>
+        <Code_OKATO>45286575000</Code_OKATO>
+        <Code_KLADR>77000000000114600</Code_KLADR>
+        <Postal_Code>123056</Postal_Code>
+    <Urban_District Name="Пресненский"  />
+    <Street Name="Грузинская Б." Type="ул" />
+    <Level1 Name="39" Type="д" />
+    <Apartment Name="69" Type="кв" />
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>819958881977</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>ЖАРИКОВ МИХАИЛ АЛЕКСАНДРОВИЧ</Content>
+        <FIO>
+            <Surname>ЖАРИКОВ</Surname>
+            <First>МИХАИЛ</First>
+            <Patronymic>АЛЕКСАНДРОВИЧ</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>819958881677</ID_Record>
+        <RegNumber>77-01/04-314/2002-224</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/8</Name>
+        <RegDate>31.07.2002</RegDate>
+        <ShareText>1/8</ShareText>
+    </Registration>
+        <Owner OwnerNumber="2">
+    <ID_Subject>819958882677</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>ЖАРИКОВ АЛЕКСАНДР НИКОЛАЕВИЧ</Content>
+        <FIO>
+            <Surname>ЖАРИКОВ</Surname>
+            <First>АЛЕКСАНДР</First>
+            <Patronymic>НИКОЛАЕВИЧ</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="2">
+        <ID_Record>819958882377</ID_Record>
+        <RegNumber>77-01/04-314/2002-218</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/4</Name>
+        <RegDate>31.07.2002</RegDate>
+        <ShareText>1/4</ShareText>
+    </Registration>
+        <Owner OwnerNumber="3">
+    <ID_Subject>819958884777</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>ЖАРИКОВ АЛЕКСАНДР НИКОЛАЕВИЧ</Content>
+        <FIO>
+            <Surname>ЖАРИКОВ</Surname>
+            <First>АЛЕКСАНДР</First>
+            <Patronymic>НИКОЛАЕВИЧ</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="3">
+        <ID_Record>819958884477</ID_Record>
+        <RegNumber>77-01/04-314/2002-223</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/4</Name>
+        <RegDate>31.07.2002</RegDate>
+        <ShareText>1/4</ShareText>
+    </Registration>
+        <Owner OwnerNumber="4">
+    <ID_Subject>819958884077</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>ЖАРИКОВ АЛЕКСАНДР НИКОЛАЕВИЧ</Content>
+        <FIO>
+            <Surname>ЖАРИКОВ</Surname>
+            <First>АЛЕКСАНДР</First>
+            <Patronymic>НИКОЛАЕВИЧ</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="4">
+        <ID_Record>819958883777</ID_Record>
+        <RegNumber>77-01/04-314/2002-224</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/8</Name>
+        <RegDate>31.07.2002</RegDate>
+        <ShareText>1/8</ShareText>
+    </Registration>
+        <Owner OwnerNumber="5">
+    <ID_Subject>819958883377</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>ЖАРИКОВ МИХАИЛ АЛЕКСАНДРОВИЧ</Content>
+        <FIO>
+            <Surname>ЖАРИКОВ</Surname>
+            <First>МИХАИЛ</First>
+            <Patronymic>АЛЕКСАНДРОВИЧ</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="5">
+        <ID_Record>819958883077</ID_Record>
+        <RegNumber>77-01/04-314/2002-219</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/4</Name>
+        <RegDate>31.07.2002</RegDate>
+        <ShareText>1/4</ShareText>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>Смагина Татьяна Ивановна</Recipient>
+           <ExtractDate>15.09.2020</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

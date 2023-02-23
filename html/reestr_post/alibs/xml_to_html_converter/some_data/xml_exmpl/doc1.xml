@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/OKS/07/Common.xsl"?>
+																<!-- 5 отчет; https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl -->
+
+<KVOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvoks/3.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+	<Building CadastralNumber="38:36:000022:32779" State="06" DateCreated="2013-09-16">
+		<CadastralBlocks>
+			<CadastralBlock>38:36:000022</CadastralBlock>
+		</CadastralBlocks>
+		<ObjectType>002001002000</ObjectType>
+		<ParentCadastralNumbers>
+			<CadastralNumber>38:36:000022:226</CadastralNumber>
+			<CadastralNumber>38:36:000022:47326</CadastralNumber>
+			<CadastralNumber>38:36:000022:48336</CadastralNumber>
+		</ParentCadastralNumbers>
+		<AssignationBuilding>204001000000</AssignationBuilding>
+		<ElementsConstruct>
+			<param:Material Wall="061001001001" />
+		</ElementsConstruct>
+		<ExploitationChar YearBuilt="2002" />
+		<Floors Floors="1" UndergroundFloors="0" />
+		<Area>592.2</Area>
+		<Address>
+			<adrs:OKATO>25401000000</adrs:OKATO>
+			<adrs:KLADR>3800000300000</adrs:KLADR>
+			<adrs:Region>38</adrs:Region>
+			<adrs:City Name="Иркутск" Type="г" />
+			<adrs:Note>Иркутская обл, г. Иркутск, в районе улиц Пискунова и Советской, 176</adrs:Note>
+		</Address>
+		<CadastralCost Value="700969.37" Unit="383" />
+		<EntitySpatial EntSys="ID0" >
+		<spa:SpatialElement >
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+		<spa:Ordinate X="383453.49" Y="3339450.64" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="2" >
+		<spa:Ordinate X="383542.44" Y="3339414.62" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="3" >
+		<spa:Ordinate X="383540.33" Y="3339408.98" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="4" >
+		<spa:Ordinate X="383455.51" Y="3339443.17" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+		<spa:Ordinate X="383454.28" Y="3339440.19" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+		<spa:Ordinate X="383452.13" Y="3339441.08" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+		<spa:Ordinate X="383453.36" Y="3339444.05" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+		<spa:Ordinate X="383451.19" Y="3339444.93" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+		<spa:Ordinate X="383453.49" Y="3339450.64" OrdNmb="1"
+		/>
+		</spa:SpelementUnit>
+		</spa:SpatialElement>
+		</EntitySpatial>
+		<Notes> Сведения о назначении, площади имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с назначениием отсутствует, площадью отсутствует.</Notes>
+		<Flats>
+		<Flat CadastralNumber="38:36:000022:32992" >
+		<Area>22.8</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:33303" >
+		<Area>22.7</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32986" >
+		<Area>23.4</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32876" >
+		<Area>41</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32856" >
+		<Area>22.2</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32975" >
+		<Area>22.8</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32866" >
+		<Area>22.6</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32872" >
+		<Area>22</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32854" >
+		<Area>20.7</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32863" >
+		<Area>23.3</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32984" >
+		<Area>22.8</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		<Flat CadastralNumber="38:36:000022:32981" >
+		<Area>24.5</Area>
+		<PositionInObject>
+		<Levels>
+		<Level Number="1" Type="01">
+		<Position NumberOnPlan="1">
+		</Position>
+		</Level>
+		</Levels>
+		</PositionInObject>
+		</Flat>
+		</Flats>
+		</Building>
+	</Realty>
+	<CertificationDoc>
+	<cer:Organization>ФГИС ЕГРН</cer:Organization>
+	<cer:Date>2020-09-16</cer:Date>
+	<cer:Number>99/2020/348081448</cer:Number>
+	</CertificationDoc>
+	<Contractors>
+	<Contractor >
+	<FamilyName>Сажин</FamilyName>
+	<FirstName>Максим</FirstName>
+	<Patronymic>Александрович</Patronymic>
+	<NCertificate>38-11-306</NCertificate>
+	</Contractor>
+	</Contractors>
+	<CoordSystems>
+	<spa:CoordSystem Name="СК кадастрового округа, зона 3" CsId="ID0" />
+	</CoordSystems>
+	<eDocument CodeType="112" Version="07" Scope="GKN">
+	<Sender Kod="00.0.4.195"
+	Name="ФГИС ЕГРН"
+	Region="99"
+	Date_Upload="2020-09-16"
+	Appointment="Государственный регистратор"
+	/>
+	<Recipient Kod="00.0.4.111" Name="Львов Иван Сергеевич" />
+	</eDocument>
+	<ReestrExtract>
+	<DeclarAttribute ID_KUVI="0"
+	ExtractTypeCode="012000"
+	ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+	ExtractNumber="99/2020/348081448"
+	ExtractDate="16.09.2020"
+	RequeryNumber="80-154096109"
+	RequeryDate="15.09.2020"
+	ExtractCount="0"
+	NoticeCount="0"
+	RefuseCount="0"
+	Registrator="ФГИС ЕГРН">
+	<ReceivName>Львов Иван Сергеевич</ReceivName>
+	<ReceivAdress>не указан</ReceivAdress>
+	</DeclarAttribute>
+	<ExtractObjectRight>
+	<HeadContent>
+	<ID_REC_KUVI>0</ID_REC_KUVI>
+	<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+	<DeptName>ФГИС ЕГРН</DeptName>
+	<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+	<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+	</HeadContent>
+	<InfoENK/>
+	<InfoPIK/>
+	<FootContent>
+	<Recipient>Львов Иван Сергеевич</Recipient>
+	<ExtractDate>16.09.2020</ExtractDate>
+	<Content></Content>
+	</FootContent>
+	</ExtractObjectRight>
+	</ReestrExtract>
+</KVOKS>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl"?>
+
+<KPOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kpoks/4.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:flat="urn://x-artefacts-rosreestr-ru/commons/complex-types/assignation-flat/1.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Flat CadastralNumber="29:22:040712:122" State="01"
+DateCreated="2012-06-30"
+>
+<CadastralBlock>29:22:040712</CadastralBlock>
+<ObjectType>002001003000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumberOKS>29:22:040712:48</CadastralNumberOKS>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="01" Number="11:401:001:002144030" />
+<num:OldNumber Type="03" Number="29:22:040712:0009:11:401:001:002144030" />
+</OldNumbers>
+<Assignation>
+<flat:AssignationCode>206002000000</flat:AssignationCode>
+<flat:AssignationType>205001000000</flat:AssignationType>
+</Assignation>
+<Area>63</Area>
+<Address>
+<adrs:OKATO>11401000000</adrs:OKATO>
+<adrs:KLADR>29000001000009800</adrs:KLADR>
+<adrs:Region>29</adrs:Region>
+<adrs:City Name="Архангельск" Type="г" />
+<adrs:Street Name="Гагарина" Type="ул" />
+<adrs:Level1 Type="д" Value="14" />
+<adrs:Level2 Type="корп" Value="2" />
+<adrs:Apartment Type="кв" Value="45" />
+</Address>
+<PositionInObject>
+<Levels>
+<Level Number="03" Type="01">
+<Position NumberOnPlan="45">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+<CadastralCost Value="3869613.09" Unit="383" />
+</Flat>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348239882</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="МСК-29 зона 2" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Смагин Андрей Игоревич" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348239882"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154245412"
+RequeryDate="15.09.2020"
+ExtractCount="0"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Смагин Андрей Игоревич</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Смагин Андрей Игоревич</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KPOKS>

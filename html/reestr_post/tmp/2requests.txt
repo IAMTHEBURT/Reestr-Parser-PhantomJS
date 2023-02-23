@@ -1,0 +1,33 @@
+{
+    "headers": [
+        {
+            "name": "Referer",
+            "value": "https://rosreestr.gov.ru/wps/portal/p/cc_present/ir_egrn"
+        },
+        {
+            "name": "Origin",
+            "value": "https://rosreestr.gov.ru"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/74.0.3729.169 Chrome/74.0.3729.169 Safari/537.36"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/plain;charset=UTF-8"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Content-Length",
+            "value": "136"
+        }
+    ],
+    "id": 63,
+    "method": "POST",
+    "postData": "9be75859-603f-4add-a609-1aa8f8c501ea\u001d138\u001fPID0\u001fheight\u001fi\u001e755\u001fPID0\u001fwidth\u001fi\u001e800\u001fPID0\u001fbrowserWidth\u001fi\u001e1800\u001fPID0\u001fbrowserHeight\u001fi\u001e\u001fPID12\u001ffocus\u001fs",
+    "time": "2023-01-04T11:20:39.783Z",
+    "url": "https://rosreestr.gov.ru/wps/portal/p/cc_present/ir_egrn/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDQw9HA0dTYy8DTxdnAwcnTz8XZ2DzIwNDAz0w8EK3ANNXA2dTQy93QMNzQ0cPR29DY0N3Q0M_A31o4jRj0cBWD8O4AjSH4VqhYWxt6mBo6-rf6CxsZ-xQagxVAE-JxKypCA3NMIg01MRANXLR5k!/p0/IZ7_01HA1A42KODT90AR30VLN22003=CZ6_01HA1A42K0IDB0ABHOECR63000=NJUIDL=/?windowName=1"
+}

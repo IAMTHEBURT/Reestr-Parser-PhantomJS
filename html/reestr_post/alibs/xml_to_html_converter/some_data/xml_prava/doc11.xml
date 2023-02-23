@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2020-09-15"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="Горева Ирина Михайловна" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2020/347979089"
+                         ExtractDate="15.09.2020"
+                         RequeryNumber="80-154233341"
+                         RequeryDate="15.09.2020"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>Горева Ирина Михайловна</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 15.09.2020 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>7054293065</ID_Object>
+        <CadastralNumber>78:14:0007617:1094</CadastralNumber>
+        <ObjectType>002002002000</ObjectType>
+        <ObjectTypeText>Помещение</ObjectTypeText>
+        <Name></Name>
+        <Assignation_Code>005002000000</Assignation_Code>
+        <Assignation_Code_Text>Нежилое</Assignation_Code_Text>
+        <Area>
+            <Area>413</Area>
+            <AreaText>413 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <FloorPlan_No>
+            <Explication>1-Н,2-Н,3-Н</Explication>
+            <Explication>5-Н,6-Н</Explication>
+        </FloorPlan_No>
+        <Address>
+        <Content>Г. Санкт-Петербург, пр-кт Витебский, д 9, литера Л, пом 1-Н,2-Н,3-Н,5-Н,6-Н</Content>
+        <Region Name="Г. Санкт-Петербург" Code="78"/>
+        <Code_OKATO>40284561000</Code_OKATO>
+        <Code_KLADR>78000000000024200</Code_KLADR>
+    <Street Name="Витебский" Type="пр-кт" />
+    <Level1 Name="9" Type="д" />
+    <Level3 Name="Л" Type="литера" />
+    <Apartment Name="1-Н,2-Н,3-Н,5-Н,6-Н" Type="пом" />
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>29461533078</ID_Subject>
+    <Organization>
+        <Code_SP>007002000000</Code_SP>
+        <Content>Открытое акционерное общество &quot;Грузовое автотранспортное предприятие 21&quot;, ИНН: 7810640731</Content>
+        <Name>Открытое акционерное общество &quot;Грузовое автотранспортное предприятие 21&quot;</Name>
+        <INN>7810640731</INN>
+    </Organization>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>844176615878</ID_Record>
+        <RegNumber>454371.1</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>05.10.1999</RegDate>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>Горева Ирина Михайловна</Recipient>
+           <ExtractDate>15.09.2020</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

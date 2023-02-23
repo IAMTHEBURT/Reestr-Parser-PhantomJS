@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/OKS/07/Common.xsl"?>
+
+<KVOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvoks/3.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Building CadastralNumber="69:15:0100801:331" State="01"
+DateCreated="2008-10-28"
+>
+<CadastralBlocks>
+<CadastralBlock>69:15:0100801</CadastralBlock>
+</CadastralBlocks>
+<ObjectType>002001002000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumber>69:15:0100801:118</CadastralNumber>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="01" Number="12-204" />
+<num:OldNumber Type="03" Number="69:15:0100801:118:6" />
+</OldNumbers>
+<Name>Объект индивидуального жилищного строительства</Name>
+<AssignationBuilding>204002000000</AssignationBuilding>
+<ElementsConstruct>
+<param:Material Wall="061001002001" />
+</ElementsConstruct>
+<Floors Floors="1" />
+<Area>47.7</Area>
+<Address>
+<adrs:OKATO>28230824008</adrs:OKATO>
+<adrs:KLADR>69015000142000600</adrs:KLADR>
+<adrs:PostalCode>171284</adrs:PostalCode>
+<adrs:Region>69</adrs:Region>
+<adrs:District Name="Конаковский" Type="р-н" />
+<adrs:City Name="Селиховское" Type="с/п" />
+<adrs:Locality Name="Сажино" Type="д" />
+<adrs:Street Name="Центральная" Type="ул" />
+<adrs:Level1 Type="д" Value="15" />
+<adrs:Note>Тверская обл, р-н Конаковский, с/пос Селиховское, д Сажино, ул Центральная, дом 15</adrs:Note>
+</Address>
+<CadastralCost Value="821535.19" Unit="383" />
+<Notes> Сведения о назначении, количестве этажей, в том числе подземных этажей имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с назначениием отсутствует, количеством этажей, в том числе подземных этажей отсутствует.</Notes>
+</Building>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348241714</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="МСК-73" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Смагина Татьяна Ивановна" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348241714"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154246950"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Смагина Татьяна Ивановна</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>77692181369</ID_Subject>
+<Person>
+<Code_SP>007003000000</Code_SP>
+<Content>Ярославцева Татьяна Николаевна</Content>
+<FIO>
+<Surname>Ярославцева</Surname>
+<First>Татьяна</First>
+<Patronymic>Николаевна</Patronymic>
+</FIO>
+</Person>
+</Owner>
+<Registration >
+<ID_Record>271138499469</ID_Record>
+<RegNumber>69-69-14/051/2009-334</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 69-69-14/051/2009-334 от 07.08.2009</Name>
+<RegDate>07.08.2009</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Смагина Татьяна Ивановна</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVOKS>

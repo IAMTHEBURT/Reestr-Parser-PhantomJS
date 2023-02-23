@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl"?>
+
+<KPOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kpoks/4.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:flat="urn://x-artefacts-rosreestr-ru/commons/complex-types/assignation-flat/1.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Flat CadastralNumber="78:14:0007617:1094" State="01"
+DateCreated="2012-09-14"
+>
+<CadastralBlock>78:14:0007623</CadastralBlock>
+<ObjectType>002001003000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumberOKS>78:14:0007617:1013</CadastralNumberOKS>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="03" Number="78:14:7617:5:5:2" />
+</OldNumbers>
+<Assignation>
+<flat:AssignationCode>206001000000</flat:AssignationCode>
+</Assignation>
+<Area>413</Area>
+<Address>
+<adrs:OKATO>40284561000</adrs:OKATO>
+<adrs:KLADR>78000000000024200</adrs:KLADR>
+<adrs:Region>78</adrs:Region>
+<adrs:Street Name="Витебский" Type="пр-кт" />
+<adrs:Level1 Type="д" Value="9" />
+<adrs:Level3 Type="литера" Value="Л" />
+<adrs:Apartment Type="пом" Value="1-Н,2-Н,3-Н,5-Н,6-Н" />
+</Address>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="1-Н,2-Н,3-Н">
+</Position>
+</Level>
+<Level Number="мезонин-надстройка" Type="03">
+<Position NumberOnPlan="5-Н,6-Н">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+<CadastralCost Value="5567326.73" Unit="383" />
+<Rights>
+<Right>
+<Name>Собственность</Name>
+<Type>001001000000</Type>
+<Owners>
+<Owner>
+<Organization>
+<Name>Открытое акционерное общество &quot;Грузовое автотранспортное предприятие 21&quot;</Name>
+</Organization>
+</Owner>
+</Owners>
+<Registration>
+<RegNumber>454371.1</RegNumber>
+<RegDate>1999-10-05</RegDate>
+</Registration>
+</Right>
+</Rights>
+</Flat>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348222215</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="мск 64" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Смагина Татьяна Ивановна" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348222215"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154232888"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Смагина Татьяна Ивановна</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>29461533078</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Открытое акционерное общество &quot;Грузовое автотранспортное предприятие 21&quot;, ИНН: 7810640731</Content>
+<Name>Открытое акционерное общество &quot;Грузовое автотранспортное предприятие 21&quot;</Name>
+<INN>7810640731</INN>
+</Organization>
+</Owner>
+<Registration >
+<ID_Record>844176615878</ID_Record>
+<RegNumber>454371.1</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 454371.1 от 05.10.1999</Name>
+<RegDate>05.10.1999</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Смагина Татьяна Ивановна</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KPOKS>

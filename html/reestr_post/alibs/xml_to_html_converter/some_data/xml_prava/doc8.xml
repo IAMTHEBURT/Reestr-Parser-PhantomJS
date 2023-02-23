@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2020-09-15"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="Смагина Татьяна Ивановна" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2020/347945248"
+                         ExtractDate="15.09.2020"
+                         RequeryNumber="80-154184365"
+                         RequeryDate="15.09.2020"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>Смагина Татьяна Ивановна</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 15.09.2020 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>6962055255</ID_Object>
+        <CadastralNumber>23:33:0106004:460</CadastralNumber>
+        <ObjectType>002002002000</ObjectType>
+        <ObjectTypeText>Помещение</ObjectTypeText>
+        <Name></Name>
+        <Assignation_Code>005002000000</Assignation_Code>
+        <Assignation_Code_Text>Нежилое</Assignation_Code_Text>
+        <Area>
+            <Area>21.7</Area>
+            <AreaText>21.7 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <FloorPlan_No>
+            <Explication>167,168,169,170</Explication>
+        </FloorPlan_No>
+        <Address>
+        <Content>Российская Федерация, Краснодарский край, Туапсинский муниципальный район, Новомихайловское городское поселение, поселок турбазы &quot;Приморская&quot;, квартал Бриз, дом 2, помещение 39</Content>
+        <Region Name="Краснодарский край" Code="23"/>
+        <Code_OKATO>03255558009</Code_OKATO>
+        <Code_KLADR>23036000057000700</Code_KLADR>
+    <District Name="Туапсинский" Type="р-н" />
+    <Locality Name="турбазы &amp;quot;Приморская&amp;quot;" Type="п" />
+    <Street Name="Бриз" Type="кв-л" />
+    <Level1 Name="2" Type="д" />
+    <Apartment Name="39" Type="пом" />
+        <Other>Новомихайловское городское поселение</Other>
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>1886310629023</ID_Subject>
+    <Organization>
+        <Code_SP>007002000000</Code_SP>
+        <Content>Общество с ограниченной ответственностью  &quot; Зеленый Гай&quot;, ИНН: 2309106038</Content>
+        <Name>Общество с ограниченной ответственностью  &quot; Зеленый Гай&quot;</Name>
+        <INN>2309106038</INN>
+    </Organization>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>3222366128523</ID_Record>
+        <RegNumber>23:33:0106004:460-23/013/2019-1</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>02.07.2019</RegDate>
+        <EndNumber>23:33:0106004:460-23/013/2019-1</EndNumber>
+        <EndDate>23.07.2019</EndDate>
+    </Registration>
+        <Owner OwnerNumber="2">
+    <ID_Subject>277489862023</ID_Subject>
+    <Organization>
+        <Code_SP>007002000000</Code_SP>
+        <Content>Общество с ограниченной ответственностью &quot;Жилье-Юг&quot;, ИНН: 2310116175</Content>
+        <Name>Общество с ограниченной ответственностью &quot;Жилье-Юг&quot;</Name>
+        <INN>2310116175</INN>
+    </Organization>
+        </Owner>
+    <Registration RegistrNumber="2">
+        <ID_Record>3222366129723</ID_Record>
+        <RegNumber>23:33:0106004:460-23/013/2019-3</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>23.07.2019</RegDate>
+        <EndNumber>23:33:0106004:460-23/013/2019-3</EndNumber>
+        <EndDate>06.08.2019</EndDate>
+    </Registration>
+        <Owner OwnerNumber="3">
+    <ID_Subject>1023608830823</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Инешина Марина Евгеньевна</Content>
+        <FIO>
+            <Surname>Инешина</Surname>
+            <First>Марина</First>
+            <Patronymic>Евгеньевна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="3">
+        <ID_Record>3222366130423</ID_Record>
+        <RegNumber>23:33:0106004:460-23/013/2019-5</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>06.08.2019</RegDate>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>Смагина Татьяна Ивановна</Recipient>
+           <ExtractDate>15.09.2020</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl"?>
+
+<KPOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kpoks/4.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:flat="urn://x-artefacts-rosreestr-ru/commons/complex-types/assignation-flat/1.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Flat CadastralNumber="78:40:0008341:35831" State="06"
+DateCreated="2019-09-10"
+>
+<CadastralBlock>78:40:0008341</CadastralBlock>
+<ObjectType>002001003000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumberOKS>78:40:0008341:35734</CadastralNumberOKS>
+</ParentCadastralNumbers>
+<Assignation>
+<flat:AssignationCode>206002000000</flat:AssignationCode>
+<flat:AssignationType>205001000000</flat:AssignationType>
+</Assignation>
+<Area>37.7</Area>
+<Address>
+<adrs:OKATO>40279562000</adrs:OKATO>
+<adrs:KLADR>78000000000078600</adrs:KLADR>
+<adrs:Region>78</adrs:Region>
+<adrs:Street Name="Маршала Казакова" Type="ул" />
+<adrs:Level1 Type="д" Value="70" />
+<adrs:Level2 Type="корп" Value="1" />
+<adrs:Level3 Type="строен" Value="2" />
+<adrs:Apartment Type="кв" Value="97" />
+<adrs:Note>Российская Федерация, Санкт-Петербург, муниципальный округ Южно-Приморский, улица Маршала Казакова, дом 70, корпус 1, строение 2, квартира 97</adrs:Note>
+</Address>
+<PositionInObject>
+<Levels>
+<Level Number="10" Type="01">
+<Position NumberOnPlan="97">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+<CadastralCost Value="4184156.98" Unit="383" />
+<Rights>
+<Right>
+<Name>Общая долевая собственность</Name>
+<Type>001002000000</Type>
+<Owners>
+<Owner>
+<Governance>
+<Name>Владельцы инвестиционных паев Закрытого паевого инвестиционного комбинированного фонда &quot;Невский - Шестнадцатый фонд&quot;, данные о которых устанавливаются на основании данных лицевых счетов владельцев инвестиционных паев в реестре владельцев инвестиционных па</Name>
+</Governance>
+</Owner>
+</Owners>
+<Registration>
+<RegNumber>78:40:0008341:35831-78/035/2019-3</RegNumber>
+<RegDate>2019-11-05</RegDate>
+</Registration>
+</Right>
+</Rights>
+<Encumbrances>
+<Encumbrance>
+<Type>022010000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Общество с ограниченной ответственностью &quot;Управляющая компания &quot;ФОРТИС-Инвест&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78:40:0008341:35831-78/035/2019-4</RegNumber>
+<RegDate>2019-11-05</RegDate>
+</Registration>
+</Encumbrance>
+</Encumbrances>
+</Flat>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348222212</cer:Number>
+</CertificationDoc>
+<Contractors>
+<Contractor >
+<FamilyName>Дахновская</FamilyName>
+<FirstName>Екатерина</FirstName>
+<Patronymic>Владимировна</Patronymic>
+<NCertificate>47-15-0783</NCertificate>
+</Contractor>
+</Contractors>
+<CoordSystems>
+<spa:CoordSystem Name="мск 64" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348222212"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154232885"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>635557139378</ID_Subject>
+<Governance>
+<Code_SP>007001000000</Code_SP>
+<Content>Владельцы инвестиционных паев Закрытого паевого инвестиционного комбинированного фонда &quot;Невский - Шестнадцатый фонд&quot;, данные о которых устанавливаются на основании данных лицевых счетов владельцев инвестиционных паев в реестре владельцев инвестиционных паев и счетов депо владельцев инвестиционных паев</Content>
+<Name>Владельцы инвестиционных паев Закрытого паевого инвестиционного комбинированного фонда &quot;Невский - Шестнадцатый фонд&quot;, данные о которых устанавливаются на основании данных лицевых счетов владельцев инвестиционных паев в реестре владельцев инвестиционных паев и счетов депо владельцев инвестиционных паев</Name>
+<Country>Российская Федерация</Country>
+</Governance>
+</Owner>
+<Registration >
+<ID_Record>748901592078</ID_Record>
+<RegNumber>78:40:0008341:35831-78/035/2019-3</RegNumber>
+<Type>001002000000</Type>
+<Name>Долевая собственность, № 78:40:0008341:35831-78/035/2019-3 от 05.11.2019</Name>
+<RegDate>05.11.2019</RegDate>
+</Registration>
+<Encumbrance>
+<ID_Record>748901593978</ID_Record>
+<RegNumber>78:40:0008341:35831-78/035/2019-4</RegNumber>
+<Type>022099000000</Type>
+<Name>Доверительное управление</Name>
+<ShareText>Санкт-Петербург, муниципальный округ Южно-Приморский, ул.Маршала Казакова, д.70, корп.1, строен.2, кв.97,кад.№ 78:40:0008341:35831,квартира, назначение: жилое, площадь 37,7 кв.м., этаж: 10
+</ShareText>
+<RegDate>05.11.2019</RegDate>
+<Duration>
+<Term>срок с 22.05.2018 по 31.12.2027</Term>
+</Duration>
+<Owner >
+<ID_Subject>688546178078</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Общество с ограниченной ответственностью &quot;Управляющая компания &quot;ФОРТИС-Инвест&quot;, ИНН: 7707757447</Content>
+<Name>Общество с ограниченной ответственностью &quot;Управляющая компания &quot;ФОРТИС-Инвест&quot;</Name>
+<INN>7707757447</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>635557139778</ID_Document>
+<Content>Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot; oт 22.05.2018 №3501</Content>
+<Type_Document>010003015000</Type_Document>
+<Name>Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot;</Name>
+<Number>3501</Number>
+<Date>22.05.2018</Date>
+</DocFound>
+<DocFound>
+<ID_Document>635557140178</ID_Document>
+<Content>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot; № 3501-2 oт 22.11.2018 №2</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot; № 3501-2</Name>
+<Number>2</Number>
+<Date>22.11.2018</Date>
+</DocFound>
+<DocFound>
+<ID_Document>746584494878</ID_Document>
+<Content>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; oт 25.02.2019 №3</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot;</Name>
+<Number>3</Number>
+<Date>25.02.2019</Date>
+</DocFound>
+<DocFound>
+<ID_Document>635557139978</ID_Document>
+<Content>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot; № 3501-1 oт 26.06.2018 №1</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot; № 3501-1</Name>
+<Number>1</Number>
+<Date>26.06.2018</Date>
+</DocFound>
+<DocFound>
+<ID_Document>746584495078</ID_Document>
+<Content>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; oт 24.07.2019 №5</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot;</Name>
+<Number>5</Number>
+<Date>24.07.2019</Date>
+</DocFound>
+<DocFound>
+<ID_Document>729238722778</ID_Document>
+<Content>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot; oт 22.05.2018 №3501 oт 18.07.2019 №4</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>Изменения и дополнения в Правила доверительного управления Закрытым паевым инвестиционным комбинированным фондом &quot;Невский-Шестнадцатый фонд&quot; под управлением Общества с ограниченной ответственностью &quot;БСПБ Капитал&quot; oт 22.05.2018 №3501</Name>
+<Number>4</Number>
+<Date>18.07.2019</Date>
+</DocFound>
+</Encumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KPOKS>

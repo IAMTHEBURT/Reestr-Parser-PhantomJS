@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2020-09-15"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2020/348003058"
+                         ExtractDate="15.09.2020"
+                         RequeryNumber="80-154239430"
+                         RequeryDate="15.09.2020"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 15.09.2020 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>9086093325</ID_Object>
+        <CadastralNumber>77:04:0003016:3166</CadastralNumber>
+        <ObjectType>002002002000</ObjectType>
+        <ObjectTypeText>Помещение</ObjectTypeText>
+        <Name></Name>
+        <Assignation_Code>005001000000</Assignation_Code>
+        <Assignation_Code_Text>Жилое</Assignation_Code_Text>
+        <Area>
+            <Area>38.5</Area>
+            <AreaText>38.5 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <FloorPlan_No>
+            <Explication>708</Explication>
+        </FloorPlan_No>
+        <Address>
+        <Content>Г. Москва, ул Донецкая, д 30, корп 1, кв 708</Content>
+        <Region Name="Г. Москва" Code="77"/>
+        <Code_OKATO>45290572000</Code_OKATO>
+        <Code_KLADR>77000000000016500</Code_KLADR>
+        <Postal_Code>109651</Postal_Code>
+    <Street Name="Донецкая" Type="ул" />
+    <Level1 Name="30" Type="д" />
+    <Level2 Name="1" Type="корп" />
+    <Apartment Name="708" Type="кв" />
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>747503875377</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Алексеева Анастасия Юрьевна</Content>
+        <FIO>
+            <Surname>Алексеева</Surname>
+            <First>Анастасия</First>
+            <Patronymic>Юрьевна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+        <Owner OwnerNumber="1">
+    <ID_Subject>352255982277</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Алексеев Сергей Николаевич</Content>
+        <FIO>
+            <Surname>Алексеев</Surname>
+            <First>Сергей</First>
+            <Patronymic>Николаевич</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>783212298877</ID_Record>
+        <RegNumber>77:04:0003016:3166-77/003/2020-1</RegNumber>
+        <Type>001003000000</Type>
+        <Name>Совместная собственность</Name>
+        <RegDate>03.02.2020</RegDate>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833</Recipient>
+           <ExtractDate>15.09.2020</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

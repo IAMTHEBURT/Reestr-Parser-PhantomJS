@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2020-09-15"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2020/347924542"
+                         ExtractDate="15.09.2020"
+                         RequeryNumber="80-154155978"
+                         RequeryDate="15.09.2020"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 15.09.2020 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>3187451448</ID_Object>
+        <CadastralNumber>52:23:0050104:541</CadastralNumber>
+        <ObjectType>002002002000</ObjectType>
+        <ObjectTypeText>Помещение</ObjectTypeText>
+        <Name>Квартира</Name>
+        <Assignation_Code>005001000000</Assignation_Code>
+        <Assignation_Code_Text>Жилое</Assignation_Code_Text>
+        <Area>
+            <Area>59.5</Area>
+            <AreaText>59.5 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <Inv_No>2661 </Inv_No>
+        <FloorPlan_No>
+            <Explication>47</Explication>
+        </FloorPlan_No>
+        <Address>
+        <Content>Нижегородская область, р-н Богородский, г Богородск, ул Ленина, д 202, кв 47</Content>
+        <Region Name="Нижегородская область" Code="52"/>
+        <Code_OKATO>22207501000</Code_OKATO>
+        <Code_KLADR>52005001000008800</Code_KLADR>
+        <Postal_Code>607600</Postal_Code>
+    <District Name="Богородский" Type="р-н" />
+    <City Name="Богородск" Type="г" />
+    <Street Name="Ленина" Type="ул" />
+    <Level1 Name="202" Type="д" />
+    <Apartment Name="47" Type="кв" />
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>313448649552</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Романов Александр Юрьевич</Content>
+        <FIO>
+            <Surname>Романов</Surname>
+            <First>Александр</First>
+            <Patronymic>Юрьевич</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>313448648352</ID_Record>
+        <RegNumber>52-52-02/047/2005-212</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>12.01.2006</RegDate>
+        <EndNumber>52-52/107-52/010/700/2015-7015/1</EndNumber>
+        <EndDate>11.01.2016</EndDate>
+    <DocFound>
+        <ID_Document>313448648752</ID_Document>
+        <Content>Договор купли-продажи квартиры от 30.12.2015</Content>
+        <Type_Document>010003007000</Type_Document>
+        <Name>Договор купли-продажи квартиры</Name>
+        <Number>б/н</Number>
+        <Date>30.12.2015</Date>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="2">
+    <ID_Subject>53015613952</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Гасин Николай Александрович</Content>
+        <FIO>
+            <Surname>Гасин</Surname>
+            <First>Николай</First>
+            <Patronymic>Александрович</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="2">
+        <ID_Record>313448649952</ID_Record>
+        <RegNumber>52-52/107-52/010/700/2015-7015/2</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>11.01.2016</RegDate>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РОКЕТ ДЕВЕЛОПМЕНТ ГРУП&quot; ИНН 9701126833</Recipient>
+           <ExtractDate>15.09.2020</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

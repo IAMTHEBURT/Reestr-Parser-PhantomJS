@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/OKS/07/Common.xsl"?>
+
+<KVOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvoks/3.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Building CadastralNumber="38:34:015001:375" State="01"
+DateCreated="2011-07-01"
+>
+<CadastralBlocks>
+<CadastralBlock>38:34:015001</CadastralBlock>
+</CadastralBlocks>
+<ObjectType>002001002000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumber>38:34:015001:225</CadastralNumber>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="01" Number="142НЗ" />
+<num:OldNumber Type="01" Number="25:414:001:200176040:0200" />
+<num:OldNumber Type="02" Number="38:34:015001:0015:25:414:001:200176040:0" />
+</OldNumbers>
+<Name>Административное здание</Name>
+<AssignationBuilding>204001000000</AssignationBuilding>
+<ElementsConstruct>
+<param:Material Wall="061001003001" />
+</ElementsConstruct>
+<ExploitationChar YearBuilt="1961" />
+<Floors Floors="2" />
+<Area>636.7</Area>
+<Address>
+<adrs:OKATO>25414000000</adrs:OKATO>
+<adrs:KLADR>38000005000033600</adrs:KLADR>
+<adrs:Region>38</adrs:Region>
+<adrs:City Name="Братск" Type="г" />
+<adrs:Street Name="Подбельского" Type="ул" />
+<adrs:Note>Иркутская область, г. Братск, ул. Подбельского, д. 38</adrs:Note>
+</Address>
+<CadastralCost Value="10650539.32" Unit="383" />
+<Notes> Сведения о назначении, количестве этажей, в том числе подземных этажей, площади имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с назначениием отсутствует, количеством этажей, в том числе подземных этажей отсутствует, площадью отсутствует.</Notes>
+</Building>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348077657</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="СК кадастрового округа, зона 3" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Смагина Татьяна Ивановна" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348077657"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154091725"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Смагина Татьяна Ивановна</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>347512746538</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ЮЛВИТА&quot;, ИНН: 3804029326</Content>
+<Name>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;ЮЛВИТА&quot;</Name>
+<INN>3804029326</INN>
+</Organization>
+</Owner>
+<Registration >
+<ID_Record>347512745938</ID_Record>
+<RegNumber>38-38-03/025/2007-719</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 38-38-03/025/2007-719 от 11.06.2007</Name>
+<RegDate>11.06.2007</RegDate>
+</Registration>
+<Encumbrance>
+<ID_Record>347512746738</ID_Record>
+<RegNumber>38-38/003-38/003/002/2016-1983/2</RegNumber>
+<Type>022006000000</Type>
+<Name>Аренда (в том числе, субаренда)</Name>
+<RegDate>17.05.2016</RegDate>
+<Duration>
+<Started>18.04.2016</Started>
+<Stopped>17.04.2021</Stopped>
+<Term>с 18.04.2016 по 17.04.2021</Term>
+</Duration>
+<Owner >
+<ID_Subject>347512747138</ID_Subject>
+<Person>
+<Code_SP>007003000000</Code_SP>
+<Content>Васильева Татьяна Ивановна</Content>
+<FIO>
+<Surname>Васильева</Surname>
+<First>Татьяна</First>
+<Patronymic>Ивановна</Patronymic>
+</FIO>
+</Person>
+</Owner>
+<DocFound>
+<ID_Document>347512746938</ID_Document>
+<Content>&apos;Договор аренды нежилого помещения&apos; №07 от 18.04.2016</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор аренды нежилого помещения</Name>
+<Number>07</Number>
+<Date>18.04.2016</Date>
+</DocFound>
+</Encumbrance>
+</Right>
+<Right RightNumber="2">
+<NoOwner>данные о правообладателе отсутствуют</NoOwner>
+<NoRegistration>не зарегистрировано</NoRegistration>
+<Encumbrance>
+<ID_Record>347512747538</ID_Record>
+<RegNumber>38-38/003-38/003/002/2016-1984/2</RegNumber>
+<Type>022006000000</Type>
+<Name>Аренда (в том числе, субаренда)</Name>
+<RegDate>19.05.2016</RegDate>
+<Duration>
+<Started>18.04.2016</Started>
+<Stopped>17.04.2021</Stopped>
+<Term>с 18.04.2016 по 17.04.2021</Term>
+</Duration>
+<Owner >
+<ID_Subject>333726230638</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;АТЛАНТ&quot;, ИНН: 3804009200</Content>
+<Name>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;АТЛАНТ&quot;</Name>
+<INN>3804009200</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>347512747738</ID_Document>
+<Content>&apos;Договор субаренды&apos; №8/2016 от 18.04.2016</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор субаренды</Name>
+<Number>8/2016</Number>
+<Date>18.04.2016</Date>
+</DocFound>
+</Encumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Смагина Татьяна Ивановна</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVOKS>

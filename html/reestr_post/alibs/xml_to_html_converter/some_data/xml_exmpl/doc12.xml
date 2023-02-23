@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ZU/07/Common.xsl"?>
+
+<KVZU xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvzu/7.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:nobj="urn://x-artefacts-rosreestr-ru/commons/complex-types/natural-objects-output/1.0.1">
+<Parcels>
+<Parcel CadastralNumber="50:34:0010605:2192" State="06"
+DateCreated="2013-12-13"
+>
+<CadastralBlock>50:34:0010605</CadastralBlock>
+<Name>01</Name>
+<InnerCadastralNumbers>
+<CadastralNumber>50:34:0010605:2346</CadastralNumber>
+<CadastralNumber>50:34:0000000:4542</CadastralNumber>
+<CadastralNumber>50:34:0000000:1802</CadastralNumber>
+<CadastralNumber>50:34:0000000:1820</CadastralNumber>
+<CadastralNumber>50:34:0000000:1824</CadastralNumber>
+<CadastralNumber>50:34:0000000:1810</CadastralNumber>
+<CadastralNumber>50:34:0000000:1801</CadastralNumber>
+<CadastralNumber>50:34:0000000:1828</CadastralNumber>
+<CadastralNumber>50:34:0000000:1807</CadastralNumber>
+<CadastralNumber>50:34:0000000:1808</CadastralNumber>
+<CadastralNumber>50:34:0000000:1812</CadastralNumber>
+<CadastralNumber>50:34:0000000:1803</CadastralNumber>
+<CadastralNumber>50:34:0000000:1815</CadastralNumber>
+<CadastralNumber>50:34:0000000:1798</CadastralNumber>
+<CadastralNumber>50:34:0000000:20216</CadastralNumber>
+<CadastralNumber>50:34:0010605:2279</CadastralNumber>
+<CadastralNumber>50:34:0010605:2277</CadastralNumber>
+</InnerCadastralNumbers>
+<Area>
+<Area>137800</Area>
+<Unit>055</Unit>
+<Inaccuracy>260</Inaccuracy>
+</Area>
+<Location>
+<inBounds>2</inBounds>
+<Address> <adrs:OKATO>46438000000</adrs:OKATO>
+<adrs:KLADR>5001200000000</adrs:KLADR>
+<adrs:PostalCode>140491</adrs:PostalCode>
+<adrs:Region>50</adrs:Region>
+<adrs:District Name="Коломенский" Type="р-н" />
+<adrs:City Name="Пестриковское" Type="с/п" />
+<adrs:Level1 Type="уч" Value="8" />
+<adrs:Note>Московская область, Коломенский муниципальный район, сельское поселение Пестриковское, вблизи поселка Сергиевский, участок 8</adrs:Note>
+</Address>
+</Location>
+<Category>003001000000</Category>
+<Utilization Utilization="141000000000" />
+<SubParcels>
+<SubParcel NumberRecord="1" Full="0" State="06" >
+<Area>
+<Area>1086</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<AccountNumber>50.00.2.123</AccountNumber>
+<Registration>
+<RegDate>2015-03-19</RegDate>
+</Registration>
+<Document>
+<doc:CodeDocument>558401020000</doc:CodeDocument>
+<doc:Name>Постановление &quot;О порядке установления охранных зон объектов электросетевого хозяйства и особых условий использования земельных участков, расположенных в границах таких зон&quot;</doc:Name>
+<doc:Number>160</doc:Number>
+<doc:Date>2009-02-24</doc:Date>
+<doc:IssueOrgan>Правительство Российской Федерации</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID0" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="394881.2" Y="2273677.45" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="394867.67" Y="2273758.72" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="18" >
+<spa:Ordinate X="394847.88" Y="2273883.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="394883.39" Y="2273671.41" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="394889.47" Y="2273672.18" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="394892.24" Y="2273647.55" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="1" Full="0" State="06" >
+<Area>
+<Area>1086</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<Duration>
+<Started>2015-03-19</Started>
+</Duration>
+<Document>
+<doc:CodeDocument>558401020000</doc:CodeDocument>
+<doc:Name>Постановление &quot;О порядке установления охранных зон объектов электросетевого хозяйства и особых условий использования земельных участков, расположенных в границах таких зон&quot;</doc:Name>
+<doc:Number>160</doc:Number>
+<doc:Date>2009-02-24</doc:Date>
+<doc:IssueOrgan>Правительство Российской Федерации</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="394892.24" Y="2273647.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="394889.47" Y="2273672.18" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="394883.39" Y="2273671.41" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="18" >
+<spa:Ordinate X="394847.88" Y="2273883.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="394867.67" Y="2273758.72" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="394881.2" Y="2273677.45" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="2" Full="0" State="06" >
+<Area>
+<Area>1086</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<AccountNumber>50.00.2.136</AccountNumber>
+<Registration>
+<RegDate>2015-03-31</RegDate>
+</Registration>
+<Document>
+<doc:CodeDocument>558401020000</doc:CodeDocument>
+<doc:Name>Постановление &quot;О порядке установления охранных зон объектов электросетевого хозяйства и особых условий использования земельных участков, расположенных в границах таких зон&quot;</doc:Name>
+<doc:Number>160</doc:Number>
+<doc:Date>2009-02-24</doc:Date>
+<doc:IssueOrgan>Правительство Российской Федерации</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID0" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="394881.2" Y="2273677.45" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="394867.67" Y="2273758.72" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="18" >
+<spa:Ordinate X="394847.88" Y="2273883.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="394883.39" Y="2273671.41" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="394889.47" Y="2273672.18" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="394892.24" Y="2273647.55" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="2" Full="0" State="06" >
+<Area>
+<Area>1086</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<Duration>
+<Started>2015-03-31</Started>
+</Duration>
+<Document>
+<doc:CodeDocument>558401020000</doc:CodeDocument>
+<doc:Name>Постановление &quot;О порядке установления охранных зон объектов электросетевого хозяйства и особых условий использования земельных участков, расположенных в границах таких зон&quot;</doc:Name>
+<doc:Number>160</doc:Number>
+<doc:Date>2009-02-24</doc:Date>
+<doc:IssueOrgan>Правительство Российской Федерации</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="394892.24" Y="2273647.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="394889.47" Y="2273672.18" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="394883.39" Y="2273671.41" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="18" >
+<spa:Ordinate X="394847.88" Y="2273883.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="394867.67" Y="2273758.72" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="394881.2" Y="2273677.45" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="3" Full="0" State="06" >
+<Area>
+<Area>3173</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<AccountNumber>50.34.2.32</AccountNumber>
+<Registration>
+<RegDate>2015-05-25</RegDate>
+</Registration>
+<Document>
+<doc:CodeDocument>558204000000</doc:CodeDocument>
+<doc:Name>Письмо Министерства экономического развития РФ</doc:Name>
+<doc:Number>11882-ИМ/Д23</doc:Number>
+<doc:Date>2011-06-09</doc:Date>
+<doc:IssueOrgan>Министерства экономического развития РФ</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID0" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="19" >
+<spa:Ordinate X="394423.74" Y="2273838.91" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="11" >
+<spa:Ordinate X="394423.28" Y="2273842.8" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="20" >
+<spa:Ordinate X="394489.87" Y="2273850.19" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="21" >
+<spa:Ordinate X="394447.31" Y="2273842.93" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="19" >
+<spa:Ordinate X="394423.74" Y="2273838.91" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="22" >
+<spa:Ordinate X="394543.02" Y="2273654.6" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="23" >
+<spa:Ordinate X="394523.15" Y="2273653.09" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="24" >
+<spa:Ordinate X="394520.06" Y="2273683.26" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="25" >
+<spa:Ordinate X="394509.7" Y="2273789.62" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="26" >
+<spa:Ordinate X="394504.46" Y="2273833.03" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="27" >
+<spa:Ordinate X="394502.37" Y="2273851.58" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="28" >
+<spa:Ordinate X="394506.35" Y="2273852.02" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="29" >
+<spa:Ordinate X="394508.43" Y="2273833.5" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="30" >
+<spa:Ordinate X="394513.68" Y="2273790.06" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="31" >
+<spa:Ordinate X="394524.04" Y="2273683.65" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="32" >
+<spa:Ordinate X="394526.73" Y="2273657.37" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="33" >
+<spa:Ordinate X="394542.53" Y="2273658.58" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="22" >
+<spa:Ordinate X="394543.02" Y="2273654.6" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="34" >
+<spa:Ordinate X="394805.35" Y="2273566.07" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="12" >
+<spa:Ordinate X="394460.98" Y="2273527.1" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="35" >
+<spa:Ordinate X="394460.29" Y="2273532.87" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="36" >
+<spa:Ordinate X="394499" Y="2273537.36" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="37" >
+<spa:Ordinate X="394531.86" Y="2273541.18" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="38" >
+<spa:Ordinate X="394560.31" Y="2273544.48" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="39" >
+<spa:Ordinate X="394615.93" Y="2273550.93" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="40" >
+<spa:Ordinate X="394685.6" Y="2273559.01" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="41" >
+<spa:Ordinate X="394739.91" Y="2273565.32" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="42" >
+<spa:Ordinate X="394803.11" Y="2273572.65" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="34" >
+<spa:Ordinate X="394805.35" Y="2273566.07" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="3" Full="0" State="06" >
+<Area>
+<Area>3173</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<Duration>
+<Started>2015-05-25</Started>
+</Duration>
+<Document>
+<doc:CodeDocument>558204000000</doc:CodeDocument>
+<doc:Name>Письмо Министерства экономического развития РФ</doc:Name>
+<doc:Number>11882-ИМ/Д23</doc:Number>
+<doc:Date>2011-06-09</doc:Date>
+<doc:IssueOrgan>Министерства экономического развития РФ</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="19" >
+<spa:Ordinate X="394423.74" Y="2273838.91" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="21" >
+<spa:Ordinate X="394447.31" Y="2273842.93" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="20" >
+<spa:Ordinate X="394489.87" Y="2273850.19" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="11" >
+<spa:Ordinate X="394423.28" Y="2273842.8" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="19" >
+<spa:Ordinate X="394423.74" Y="2273838.91" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="34" >
+<spa:Ordinate X="394805.35" Y="2273566.07" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="42" >
+<spa:Ordinate X="394803.11" Y="2273572.65" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="41" >
+<spa:Ordinate X="394739.91" Y="2273565.32" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="40" >
+<spa:Ordinate X="394685.6" Y="2273559.01" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="39" >
+<spa:Ordinate X="394615.93" Y="2273550.93" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="38" >
+<spa:Ordinate X="394560.31" Y="2273544.48" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="37" >
+<spa:Ordinate X="394531.86" Y="2273541.18" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="43" >
+<spa:Ordinate X="394499" Y="2273537.36" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="35" >
+<spa:Ordinate X="394460.29" Y="2273532.87" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="12" >
+<spa:Ordinate X="394460.98" Y="2273527.1" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="34" >
+<spa:Ordinate X="394805.35" Y="2273566.07" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="22" >
+<spa:Ordinate X="394543.02" Y="2273654.6" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="33" >
+<spa:Ordinate X="394542.53" Y="2273658.58" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="32" >
+<spa:Ordinate X="394526.73" Y="2273657.37" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="31" >
+<spa:Ordinate X="394524.04" Y="2273683.65" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="30" >
+<spa:Ordinate X="394513.68" Y="2273790.06" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="29" >
+<spa:Ordinate X="394508.43" Y="2273833.5" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="28" >
+<spa:Ordinate X="394506.35" Y="2273852.02" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="27" >
+<spa:Ordinate X="394502.37" Y="2273851.58" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="26" >
+<spa:Ordinate X="394504.46" Y="2273833.03" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="25" >
+<spa:Ordinate X="394509.7" Y="2273789.62" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="24" >
+<spa:Ordinate X="394520.06" Y="2273683.26" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="23" >
+<spa:Ordinate X="394523.15" Y="2273653.09" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="22" >
+<spa:Ordinate X="394543.02" Y="2273654.6" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="4" Full="0" State="06" >
+<Area>
+<Area>335</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<AccountNumber>50.34.2.60</AccountNumber>
+<Registration>
+<RegDate>2015-05-26</RegDate>
+</Registration>
+<Document>
+<doc:CodeDocument>558204000000</doc:CodeDocument>
+<doc:Name>Письмо Министерства экономического развития РФ</doc:Name>
+<doc:Number>11882-ИМ/Д23</doc:Number>
+<doc:Date>2011-06-09</doc:Date>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID0" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="44" >
+<spa:Ordinate X="394828.61" Y="2273877.59" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="45" >
+<spa:Ordinate X="394808.69" Y="2273878.64" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="46" >
+<spa:Ordinate X="394806.79" Y="2273885.35" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="10" >
+<spa:Ordinate X="394844.53" Y="2273889.54" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="9" >
+<spa:Ordinate X="394845.02" Y="2273883.31" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="47" >
+<spa:Ordinate X="394854.87" Y="2273883.93" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="44" >
+<spa:Ordinate X="394828.61" Y="2273877.59" OrdNmb="1" DeltaGeopoint="0.1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="4" Full="0" State="06" >
+<Area>
+<Area>335</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<Duration>
+<Started>2015-05-26</Started>
+</Duration>
+<Document>
+<doc:CodeDocument>558204000000</doc:CodeDocument>
+<doc:Name>Письмо Министерства экономического развития РФ</doc:Name>
+<doc:Number>11882-ИМ/Д23</doc:Number>
+<doc:Date>2011-06-09</doc:Date>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="44" >
+<spa:Ordinate X="394828.61" Y="2273877.59" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="47" >
+<spa:Ordinate X="394854.87" Y="2273883.93" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="9" >
+<spa:Ordinate X="394845.02" Y="2273883.31" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="10" >
+<spa:Ordinate X="394844.53" Y="2273889.54" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="46" >
+<spa:Ordinate X="394806.79" Y="2273885.35" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="45" >
+<spa:Ordinate X="394808.69" Y="2273878.64" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="44" >
+<spa:Ordinate X="394828.61" Y="2273877.59" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="5" Full="0" State="06" >
+<Area>
+<Area>1086</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<AccountNumber>50.00.2.1244</AccountNumber>
+<Registration>
+<RegDate>2020-04-27</RegDate>
+</Registration>
+<Document>
+<doc:CodeDocument>558200000000</doc:CodeDocument>
+<doc:Name>Распоряжение</doc:Name>
+<doc:Number>15ВР-119</doc:Number>
+<doc:Date>2020-01-30</doc:Date>
+<doc:IssueOrgan>Министерство имущественных отношений Московской области</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID0" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="394881.2" Y="2273677.45" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="394867.67" Y="2273758.72" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="48" >
+<spa:Ordinate X="394847.89" Y="2273883.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="394883.39" Y="2273671.41" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="394889.47" Y="2273672.18" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="394892.24" Y="2273647.55" OrdNmb="1" DeltaGeopoint="0.2" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+<SubParcel NumberRecord="5" Full="0" State="06" >
+<Area>
+<Area>1086</Area>
+<Unit>055</Unit>
+</Area>
+<Encumbrance>
+<Type>022004000000</Type>
+<Duration>
+<Started>2020-04-27</Started>
+</Duration>
+<Document>
+<doc:CodeDocument>558401089900</doc:CodeDocument>
+<doc:Name>Распоряжение</doc:Name>
+<doc:Number>15ВР-119</doc:Number>
+<doc:Date>2020-01-30</doc:Date>
+<doc:IssueOrgan>Министерство имущественных отношений Московской области</doc:IssueOrgan>
+</Document>
+</Encumbrance>
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="394892.24" Y="2273647.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="394889.47" Y="2273672.18" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="394883.39" Y="2273671.41" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="48" >
+<spa:Ordinate X="394847.89" Y="2273883.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="394867.67" Y="2273758.72" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="394881.2" Y="2273677.45" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="394886.1" Y="2273646.77" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+</SubParcel>
+</SubParcels>
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+<spa:Ordinate X="394880.69" Y="2273571.99" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="2" >
+<spa:Ordinate X="394876.78" Y="2273608.51" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="3" >
+<spa:Ordinate X="394889.25" Y="2273610.28" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="4" >
+<spa:Ordinate X="394884.1" Y="2273646.52" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="394892.24" Y="2273647.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="394889.47" Y="2273672.18" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="394883.39" Y="2273671.41" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="394854.85" Y="2273884.13" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="9" >
+<spa:Ordinate X="394845.02" Y="2273883.31" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="10" >
+<spa:Ordinate X="394844.53" Y="2273889.54" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="11" >
+<spa:Ordinate X="394423.28" Y="2273842.8" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="12" >
+<spa:Ordinate X="394460.98" Y="2273527.1" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="13" >
+<spa:Ordinate X="394867.83" Y="2273573.14" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="14" >
+<spa:Ordinate X="394868.28" Y="2273570.24" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+<spa:Ordinate X="394880.69" Y="2273571.99" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+<CadastralCost Value="38877514" Unit="383" />
+<SpecialNote> Сведения о видах разрешенного использовании имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с видами разрешенного использования отсутствует.</SpecialNote>
+</Parcel>
+</Parcels>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348148181</cer:Number>
+</CertificationDoc>
+<Contractors>
+<Contractor >
+<FamilyName>Зотов</FamilyName>
+<FirstName>Михаил</FirstName>
+<Patronymic>Юрьевич</Patronymic>
+<NCertificate>62-13-377</NCertificate>
+</Contractor>
+</Contractors>
+<CoordSystems>
+<spa:CoordSystem Name="МСК-50, зона 2" CsId="ID0" />
+<spa:CoordSystem Name="МСК-73" CsId="ID1" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Львов Иван Сергеевич" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348148181"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154166422"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Львов Иван Сергеевич</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<NoOwner>данные о правообладателе отсутствуют</NoOwner>
+<NoRegistration>не зарегистрировано</NoRegistration>
+<Encumbrance>
+<ID_Record>136700719350</ID_Record>
+<RegNumber>50:34:0010605:2192-50/057/2017-2</RegNumber>
+<Type>022007000000</Type>
+<Name>Ипотека</Name>
+<RegDate>19.07.2017</RegDate>
+<Duration>
+<Started>19.07.2017</Started>
+<Stopped>20.04.2020</Stopped>
+<Term>с 19.07.2017 по 20.04.2020</Term>
+</Duration>
+<Owner >
+<ID_Subject>136700719950</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Публичное акционерное общество &quot;Сбербанк России&quot;, ИНН: 7707083893</Content>
+<Name>Публичное акционерное общество &quot;Сбербанк России&quot;</Name>
+<INN>7707083893</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>136700719550</ID_Document>
+<Content>&apos;Договор последующей ипотеки&apos; №3800GELD4XFI1Q1WW1WZ3V301 от 25.04.2017</Content>
+<Type_Document>010003006000</Type_Document>
+<Name>Договор последующей ипотеки</Name>
+<Number>3800GELD4XFI1Q1WW1WZ3V301</Number>
+<Date>25.04.2017</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>136700720550</ID_Record>
+<RegNumber>50-50-57/010/2014-198</RegNumber>
+<Type>022006000000</Type>
+<Name>Аренда (в том числе, субаренда)</Name>
+<RegDate>26.02.2014</RegDate>
+<Duration>
+<Started>26.02.2014</Started>
+<Stopped>11.02.2063</Stopped>
+<Term>с 26.02.2014 по 11.02.2063</Term>
+</Duration>
+<Owner >
+<ID_Subject>136700720950</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Общество с ограниченной ответственностью &quot;Группа &quot;Альянс&quot;, ИНН: 7727585323</Content>
+<Name>Общество с ограниченной ответственностью &quot;Группа &quot;Альянс&quot;</Name>
+<INN>7727585323</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>136700720750</ID_Document>
+<Content>&apos;Договор аренды земельного участка&apos; №27/14 от 11.02.2014</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор аренды земельного участка</Name>
+<Number>27/14</Number>
+<Date>11.02.2014</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>136700721150</ID_Record>
+<RegNumber>50:34:0010605:2192-50/057/2020-4</RegNumber>
+<Type>022007000000</Type>
+<Name>Ипотека</Name>
+<RegDate>27.02.2020</RegDate>
+<Duration>
+<Started>27.02.2020</Started>
+<Stopped>20.07.2021</Stopped>
+<Term>с 27.02.2020 по 20.07.2021</Term>
+</Duration>
+<Owner >
+<ID_Subject>136700721550</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Публичное акционерное общество «Сбербанк России», ИНН: 7707083893</Content>
+<Name>Публичное акционерное общество «Сбербанк России»</Name>
+<INN>7707083893</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>136700721350</ID_Document>
+<Content>&apos;Договор последующей ипотеки&apos; №3800SA3PJVKW1Q0RW1WZ3FЗ01 от 25.02.2020</Content>
+<Type_Document>010003006000</Type_Document>
+<Name>Договор последующей ипотеки</Name>
+<Number>3800SA3PJVKW1Q0RW1WZ3FЗ01</Number>
+<Date>25.02.2020</Date>
+</DocFound>
+</Encumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Львов Иван Сергеевич</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVZU>

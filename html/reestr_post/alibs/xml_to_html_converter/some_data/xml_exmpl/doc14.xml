@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl"?>
+
+<KPOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kpoks/4.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:flat="urn://x-artefacts-rosreestr-ru/commons/complex-types/assignation-flat/1.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Flat CadastralNumber="90:25:050101:3983" State="06"
+DateCreated="2018-06-21"
+>
+<CadastralBlock>90:25:050101</CadastralBlock>
+<ObjectType>002001003000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumberOKS>90:25:050101:3942</CadastralNumberOKS>
+</ParentCadastralNumbers>
+<Assignation>
+<flat:AssignationCode>206002000000</flat:AssignationCode>
+<flat:AssignationType>205001000000</flat:AssignationType>
+</Assignation>
+<Area>34.4</Area>
+<Address>
+<adrs:OKATO>35419000059</adrs:OKATO>
+<adrs:KLADR>91000008016000100</adrs:KLADR>
+<adrs:Region>91</adrs:Region>
+<adrs:City Name="Ялта" Type="г" />
+<adrs:Locality Name="Ливадия" Type="пгт" />
+<adrs:Street Name="Виноградная" Type="ул" />
+<adrs:Level1 Type="д" Value="6Е" />
+<adrs:Apartment Type="кв" Value="41" />
+<adrs:Note>Республика Крым, г Ялта, пгт Ливадия, ул Виноградная, д 6 Е, кв 41</adrs:Note>
+</Address>
+<PositionInObject>
+<Levels>
+<Level Number="7" Type="01">
+<Position NumberOnPlan="41">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+<CadastralCost Value="2327943.1" Unit="383" />
+<Rights>
+<Right>
+<Name>собственность</Name>
+<Type>001001000000</Type>
+<Owners>
+<Owner>
+<Person>
+<FamilyName>Коровин</FamilyName>
+<FirstName>Юрий</FirstName>
+<Patronymic>Александрович</Patronymic>
+</Person>
+</Owner>
+</Owners>
+<Registration>
+<RegNumber>90:25:050101:3983-90/090/2019-3</RegNumber>
+<RegDate>2019-10-29</RegDate>
+</Registration>
+</Right>
+</Rights>
+<Notes>Общая площадь квартиры указана в соответствии с пунктом 5 статьи 15 Жилищного Кодекса РФ</Notes>
+</Flat>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348231397</cer:Number>
+</CertificationDoc>
+<Contractors>
+<Contractor >
+<FamilyName>Ольнова</FamilyName>
+<FirstName>Анна</FirstName>
+<Patronymic>Алексеевна</Patronymic>
+<NCertificate>78-13-820</NCertificate>
+<Organization>
+<Name>ООО &quot;НЭБ &quot;СТРОЙТЕХНАДЗОР&quot;</Name>
+</Organization>
+</Contractor>
+</Contractors>
+<CoordSystems>
+<spa:CoordSystem Name="СК кадастрового округа, зона 2" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348231397"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154239873"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>38915584291</ID_Subject>
+<Person>
+<Code_SP>007003000000</Code_SP>
+<Content>Коровин Юрий Александрович</Content>
+<FIO>
+<Surname>Коровин</Surname>
+<First>Юрий</First>
+<Patronymic>Александрович</Patronymic>
+</FIO>
+</Person>
+</Owner>
+<Registration >
+<ID_Record>51147328991</ID_Record>
+<RegNumber>90:25:050101:3983-90/090/2019-3</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 90:25:050101:3983-90/090/2019-3 от 29.10.2019</Name>
+<RegDate>29.10.2019</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>Принято заявление о наличии возражения в отношении зарегистрированного права, Кушнирюк Наталья Николаевна, 02.07.2020 11:34.</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KPOKS>

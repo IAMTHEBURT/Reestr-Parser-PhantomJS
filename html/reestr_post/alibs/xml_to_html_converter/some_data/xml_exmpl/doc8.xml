@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl"?>
+
+<KPOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kpoks/4.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:flat="urn://x-artefacts-rosreestr-ru/commons/complex-types/assignation-flat/1.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Flat CadastralNumber="78:15:0008439:6346" State="01"
+DateCreated="2012-09-19"
+>
+<CadastralBlock>78:15:0008439</CadastralBlock>
+<ObjectType>002001003000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumberOKS>78:15:0008439:5665</CadastralNumberOKS>
+</ParentCadastralNumbers>
+<Assignation>
+<flat:AssignationCode>206002000000</flat:AssignationCode>
+<flat:AssignationType>205001000000</flat:AssignationType>
+</Assignation>
+<Area>51.6</Area>
+<Address>
+<adrs:OKATO>40276562000</adrs:OKATO>
+<adrs:KLADR>78000000000055600</adrs:KLADR>
+<adrs:Region>78</adrs:Region>
+<adrs:Street Name="Козлова" Type="ул" />
+<adrs:Level1 Type="д" Value="39" />
+<adrs:Level2 Type="корп" Value="1" />
+<adrs:Level3 Type="литера" Value="А" />
+<adrs:Apartment Type="кв" Value="39" />
+</Address>
+<PositionInObject>
+<Levels>
+<Level Number="7" Type="01">
+<Position NumberOnPlan="39">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+<CadastralCost Value="4167887.91" Unit="383" />
+</Flat>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348238055</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="мск 64" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Смагин Андрей Игоревич" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348238055"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154243947"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Смагин Андрей Игоревич</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>521750817978</ID_Subject>
+<Person>
+<Code_SP>007003000000</Code_SP>
+<Content>Краевая Татьяна Владимировна</Content>
+<FIO>
+<Surname>Краевая</Surname>
+<First>Татьяна</First>
+<Patronymic>Владимировна</Patronymic>
+</FIO>
+</Person>
+</Owner>
+<Registration >
+<ID_Record>521750817278</ID_Record>
+<RegNumber>78-78-41/035/2012-341</RegNumber>
+<Type>001002000000</Type>
+<Name>Долевая собственность, № 78-78-41/035/2012-341 от 12.07.2012, 1/2</Name>
+<RegDate>12.07.2012</RegDate>
+<ShareText>1/2</ShareText>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<Right RightNumber="2">
+<Owner >
+<ID_Subject>62384821178</ID_Subject>
+<Person>
+<Code_SP>007003000000</Code_SP>
+<Content>Журавков Илья Александрович</Content>
+<FIO>
+<Surname>Журавков</Surname>
+<First>Илья</First>
+<Patronymic>Александрович</Patronymic>
+</FIO>
+</Person>
+</Owner>
+<Registration >
+<ID_Record>521750816378</ID_Record>
+<RegNumber>78-78-41/035/2012-341</RegNumber>
+<Type>001002000000</Type>
+<Name>Долевая собственность, № 78-78-41/035/2012-341 от 12.07.2012, 1/2</Name>
+<RegDate>12.07.2012</RegDate>
+<ShareText>1/2</ShareText>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Смагин Андрей Игоревич</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KPOKS>

@@ -1,0 +1,37 @@
+#Заказ документов, для каждого ключа свой процесс
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=1 code=8d872dfd-6f7e-4240-9166-7852c7dc632d
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=2 code=1706cb3d-7a1e-4a13-8e71-96d7361adf35
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=3 code=f0b4b253-632d-401c-847f-5b1881327808
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=4 code=f628a54b-1e78-496f-88e5-93e52407b921
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=5 code=8dd1da41-874c-4d5e-9379-ea6577ba4742
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=6 code=f8ee5873-0cd7-4f3b-9785-e0d94a3c8c24
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=7 code=18b41ed1-be1e-467d-a285-c863cf665444
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=8 code=a5d9da02-d79f-4f67-a184-73f35f34e33c
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=9 code=a8c64403-09d5-479c-bf6d-792a83c87516
+#*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=10 code=7b11215d-8aa7-4517-92c8-1174c35bebdc
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=11 code=cfdb8b82-a6bd-4efb-b52a-d45fbc95402c
+*/1 * * * * php7.0 /var/www/html/reestr_post/index.php sid=12 code=d2e930ff-6aca-41c2-86d4-26861ca7b6be
+
+#Проверка статуса документов и скачивание архива с результатом
+*/25 * * * * php /var/www/html/reestr_post/parse_orders.php sid=2
+
+#Распаковка архива и сохранение отдельного XML файла
+* * * * * php /var/www/html/reestr_post/file.php cnt=1000 mode=xml
+
+#Перевод XML файла в HTML через сервис росреестра и сохранение HTML
+* * * * * php /var/www/html/reestr_post/file.php cnt=300 mode=html
+#*/2 * * * * php /var/www/html/reestr_post/file.php mode=html cnt=10 skip=0 order="ASC"
+*/5 * * * * php /var/www/html/reestr_post/alibs/xml_to_html_converter/html.php cnt=100 skip=0
+*/5 * * * * php /var/www/html/reestr_post/file.php cnt=100 mode=report_pdf
+
+#Перевод HTML файла в PDF с сохранением
+*/10 * * * * php /var/www/html/reestr_post/file.php mode=pdf
+
+#Добавление визуальной подписи на PDF с сохранением
+*/10 * * * * php /var/www/html/reestr_post/file.php mode=sign_pdf
+
+#Превращение XML файла в сокращенный отчет HTML с сохранением
+*/5 * * * * php /var/www/html/reestr_post/alibs/xml_to_html_converter/html.php
+
+#Превращение сокращенного отчета HTML в PDF с сохранением
+*/5 * * * * php /var/www/html/reestr_post/file.php mode=report_pdf

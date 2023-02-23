@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2020-09-15"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="Смагина Татьяна Ивановна" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2020/347886925"
+                         ExtractDate="15.09.2020"
+                         RequeryNumber="80-154108535"
+                         RequeryDate="15.09.2020"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>Смагина Татьяна Ивановна</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 15.09.2020 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>7847701406</ID_Object>
+        <CadastralNumber>35:24:0202031:838</CadastralNumber>
+        <ObjectType>002002002000</ObjectType>
+        <ObjectTypeText>Помещение</ObjectTypeText>
+        <Name>Квартира 51</Name>
+        <Assignation_Code>005001000000</Assignation_Code>
+        <Assignation_Code_Text>Жилое</Assignation_Code_Text>
+        <Area>
+            <Area>29.8</Area>
+            <AreaText>29.8 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <Inv_No>8312 А</Inv_No>
+        <FloorPlan_No>
+            <Explication>51</Explication>
+        </FloorPlan_No>
+        <Address>
+        <Content>Вологодская область, г Вологда, пл Бабушкина, д 8, кв 51</Content>
+        <Region Name="Вологодская область" Code="35"/>
+        <Code_OKATO>19401000000</Code_OKATO>
+        <Code_KLADR>35000001000020900</Code_KLADR>
+    <City Name="Вологда" Type="г" />
+    <Street Name="Бабушкина" Type="пл" />
+    <Level1 Name="8" Type="д" />
+    <Apartment Name="51" Type="кв" />
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>205921835435</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Лощилов Роман Борисович</Content>
+        <FIO>
+            <Surname>Лощилов</Surname>
+            <First>Роман</First>
+            <Patronymic>Борисович</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>205921834835</ID_Record>
+        <RegNumber>35-35-3-24-1-339</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>15.05.1998</RegDate>
+        <EndNumber>35-35-3-24-1-339</EndNumber>
+        <EndDate>24.06.1998</EndDate>
+    <DocFound>
+        <ID_Document>205921835035</ID_Document>
+        <Content>Договор купли-продажи квартиры от 22.06.1998 г. Удостоверен нотариусом  по нотариальному округу г. Вологда и Вологодский район Савиновой Т.В. за реестровым №  50-1741 .Зарегистрирован в Едином государственном реестре прав на недвижимое имущество и сделок с ним 24 июня 1998 г. за № 35-35-2-24-1-567</Content>
+        <Type_Document>010003007000</Type_Document>
+        <Name>Договор купли-продажи квартиры</Name>
+        <Number>б/н</Number>
+        <Date>22.06.1998</Date>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="2">
+    <ID_Subject>28967246335</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Лёзов Сергей Николаевич</Content>
+        <FIO>
+            <Surname>Лёзов</Surname>
+            <First>Сергей</First>
+            <Patronymic>Николаевич</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="2">
+        <ID_Record>205921835835</ID_Record>
+        <RegNumber>35-35-2-24-1-568</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>24.06.1998</RegDate>
+        <EndNumber>35-35-2-24-1-568</EndNumber>
+        <EndDate>01.10.1998</EndDate>
+    <DocFound>
+        <ID_Document>205921835935</ID_Document>
+        <Content>Регистрационное удостоверение № 3381 от 25.09.1998 г., выдан МУПТИ &quot;Гортехинвентаризация&quot;.</Content>
+        <Type_Document>010007004000</Type_Document>
+        <Name>Регистрационное удостоверение</Name>
+        <Number>3381</Number>
+        <Date>25.09.1998</Date>
+        <IssueOrgan>МУПТИ &quot;Гортехинвентаризация&quot;, г.Вологда, ул.Орлова, 4</IssueOrgan>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="3">
+    <ID_Subject>37519716335</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Смолин Сергей Николаевич</Content>
+        <FIO>
+            <Surname>Смолин</Surname>
+            <First>Сергей</First>
+            <Patronymic>Николаевич</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="3">
+        <ID_Record>205921836335</ID_Record>
+        <RegNumber>35-35-13-24-1-264</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>01.10.1998</RegDate>
+        <EndNumber>35-35-13-24-1-264</EndNumber>
+        <EndDate>05.02.2004</EndDate>
+    <DocFound>
+        <ID_Document>205921836735</ID_Document>
+        <Content>Передаточный акт от 04.02.2004 г.</Content>
+        <Type_Document>010003003000</Type_Document>
+        <Name>Передаточный акт</Name>
+        <Number>б/н</Number>
+        <Date>04.02.2004</Date>
+    </DocFound>
+    <DocFound>
+        <ID_Document>205921836935</ID_Document>
+        <Content>Договор купли-продажи квартиры от 04.02.2004 г. Удостоверен нотариусом  по нотариальному округу г. Вологда и Вологодский район Левинской И.М. за реестровым №  1-798 .Зарегистрирован в Едином государственном реестре прав на недвижимое имущество и сделок с ним 05 февраля 2004 г. за № 35-35/24-6/2004-154</Content>
+        <Type_Document>010003007000</Type_Document>
+        <Name>Договор купли-продажи квартиры</Name>
+        <Number>б/н</Number>
+        <Date>04.02.2004</Date>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="4">
+    <ID_Subject>130231824535</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Шишелев Сергей Владимирович</Content>
+        <FIO>
+            <Surname>Шишелев</Surname>
+            <First>Сергей</First>
+            <Patronymic>Владимирович</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="4">
+        <ID_Record>205921837335</ID_Record>
+        <RegNumber>35-35/24-6/2004-155</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>05.02.2004</RegDate>
+        <EndNumber>35-35/001-35/001/701/2015-8099/1</EndNumber>
+        <EndDate>06.07.2015</EndDate>
+    <DocFound>
+        <ID_Document>205921834535</ID_Document>
+        <Content>Договор купли-продажи объекта недвижимости с использованием кредитных средств от 30.06.2015</Content>
+        <Type_Document>010003007000</Type_Document>
+        <Name>Договор купли-продажи объекта недвижимости с использованием кредитных средств</Name>
+        <Number>б/н</Number>
+        <Date>30.06.2015</Date>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="5">
+    <ID_Subject>142925464235</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Касперова Мария Владимировна</Content>
+        <FIO>
+            <Surname>Касперова</Surname>
+            <First>Мария</First>
+            <Patronymic>Владимировна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="5">
+        <ID_Record>205921833935</ID_Record>
+        <RegNumber>35-35/001-35/001/701/2015-8099/2</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>06.07.2015</RegDate>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>Смагина Татьяна Ивановна</Recipient>
+           <ExtractDate>15.09.2020</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

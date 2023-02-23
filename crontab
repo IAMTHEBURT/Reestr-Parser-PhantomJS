@@ -1,0 +1,8 @@
+#*/1 * * * * php /var/www/html/reestr_post/index.php sid=1 code=8d872dfd-6f7e-4240-9166-7852c7dc632ddocker
+#* * * * * /usr/local/bin/php /var/www/html/reestr_post/test.php
+
+# Test cron
+* * * * * /usr/local/bin/php /var/www/html/reestr_post/test.php >> /var/log/cron.log 2>&1
+
+# Custom cron
+* * * * * echo "Every Minute" >> /var/log/cron.log 2>&1

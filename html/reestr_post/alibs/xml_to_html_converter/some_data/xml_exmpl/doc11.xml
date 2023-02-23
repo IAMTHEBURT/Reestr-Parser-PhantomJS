@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ZU/07/Common.xsl"?>
+
+<KVZU xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvzu/7.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:nobj="urn://x-artefacts-rosreestr-ru/commons/complex-types/natural-objects-output/1.0.1">
+<Parcels>
+<Parcel CadastralNumber="78:14:0007617:5" State="01"
+DateCreated="2001-09-11"
+>
+<CadastralBlock>78:14:0007617</CadastralBlock>
+<Name>01</Name>
+<PrevCadastralNumbers>
+<CadastralNumber>78:7617:5</CadastralNumber>
+</PrevCadastralNumbers>
+<InnerCadastralNumbers>
+<CadastralNumber>78:14:0000000:3190</CadastralNumber>
+<CadastralNumber>78:14:0007617:1013</CadastralNumber>
+</InnerCadastralNumbers>
+<Area>
+<Area>700</Area>
+<Unit>055</Unit>
+<Inaccuracy>9</Inaccuracy>
+</Area>
+<Location>
+<Address> <adrs:OKATO>40284561000</adrs:OKATO>
+<adrs:KLADR>78000000000024200</adrs:KLADR>
+<adrs:Region>78</adrs:Region>
+<adrs:Street Name="Витебский" Type="пр-кт" />
+<adrs:Level1 Type="д" Value="9" />
+<adrs:Level3 Type="литера" Value="Л" />
+<adrs:Note>г.Санкт-Петербург, Витебский проспект, дом 9, литера Л</adrs:Note>
+</Address>
+</Location>
+<Category>003002000000</Category>
+<Utilization Utilization="143003020000" ByDoc="для размещения объектов транспорта (под предприятия автосервиса)" />
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+<spa:Ordinate X="87860.85" Y="115493.55" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="2" >
+<spa:Ordinate X="87856.49" Y="115494.88" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="3" >
+<spa:Ordinate X="87846.42" Y="115497.83" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="4" >
+<spa:Ordinate X="87846.65" Y="115498.76" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="87838.76" Y="115501.35" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="87845.82" Y="115522.22" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="87839.12" Y="115524.98" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="87830.03" Y="115498.18" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="9" >
+<spa:Ordinate X="87843.43" Y="115494.15" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="10" >
+<spa:Ordinate X="87843.69" Y="115493.73" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="11" >
+<spa:Ordinate X="87843.09" Y="115492" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="12" >
+<spa:Ordinate X="87842.64" Y="115490.49" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="13" >
+<spa:Ordinate X="87841.39" Y="115490.86" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="14" >
+<spa:Ordinate X="87840.87" Y="115489.46" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="87841.76" Y="115489.11" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="87836.33" Y="115472.86" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="87847.35" Y="115469.05" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="18" >
+<spa:Ordinate X="87846.82" Y="115467.11" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="19" >
+<spa:Ordinate X="87850.88" Y="115465.79" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="20" >
+<spa:Ordinate X="87851.14" Y="115466.75" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="21" >
+<spa:Ordinate X="87853.19" Y="115466.19" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="22" >
+<spa:Ordinate X="87853.44" Y="115467.17" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="23" >
+<spa:Ordinate X="87853.17" Y="115467.35" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="24" >
+<spa:Ordinate X="87858.08" Y="115483.07" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="25" >
+<spa:Ordinate X="87855.28" Y="115483.89" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="26" >
+<spa:Ordinate X="87857.17" Y="115490.03" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="27" >
+<spa:Ordinate X="87857.48" Y="115491.33" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="28" >
+<spa:Ordinate X="87857.44" Y="115492.51" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="29" >
+<spa:Ordinate X="87861" Y="115491.45" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="30" >
+<spa:Ordinate X="87861.36" Y="115492.6" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="31" >
+<spa:Ordinate X="87861.29" Y="115492.83" OrdNmb="1" />
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+<spa:Ordinate X="87860.85" Y="115493.55" OrdNmb="1" />
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+<Encumbrances>
+<Encumbrance>
+<Type>022099000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Governance>
+<Name>Санкт-Петербург </Name>
+</Governance>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-01-244/2001-237.3</RegNumber>
+<RegDate>2001-11-21</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022007000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-78-34/138/2011-132</RegNumber>
+<RegDate>2011-09-14</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022099000000</Type>
+<Registration>
+<RegNumber>78-01-244/2001-237.5</RegNumber>
+<RegDate>2001-11-21</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022006000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Закрытое акционерное общество &quot;Простор&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-01-244/2001-237.1</RegNumber>
+<RegDate>2001-11-21</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022099000000</Type>
+<Registration>
+<RegNumber>78-01-244/2001-237.4</RegNumber>
+<RegDate>2001-11-21</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022007000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-78-76/014/2013-391</RegNumber>
+<RegDate>2014-01-17</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022007000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-78-34/145/2012-016</RegNumber>
+<RegDate>2012-12-26</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022008000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;Сбербанк России&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-78-34/007/2014-193</RegNumber>
+<RegDate>2014-05-01</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022007000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-78-34/034/2012-083</RegNumber>
+<RegDate>2012-02-08</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022099000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Governance>
+<Name>Санкт-Петербург </Name>
+</Governance>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>78-01-244/2001-237.2</RegNumber>
+<RegDate>2001-11-21</RegDate>
+</Registration>
+</Encumbrance>
+</Encumbrances>
+<CadastralCost Value="6574758.05" Unit="383" />
+<SpecialNote> Сведения о видах разрешенного использовании имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с видами разрешенного использования «Для размещения объектов сельскохозяйственного назначения и сельскохозяйственных угодий».</SpecialNote>
+</Parcel>
+</Parcels>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2020-09-16</cer:Date>
+<cer:Number>99/2020/348221725</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="СК-1964" CsId="ID1" />
+<spa:CoordSystem Name="мск 64" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2020-09-16"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2020/348221725"
+ExtractDate="16.09.2020"
+RequeryNumber="80-154232416"
+RequeryDate="15.09.2020"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 16.09.2020 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<NoOwner>данные о правообладателе отсутствуют</NoOwner>
+<NoRegistration>не зарегистрировано</NoRegistration>
+<Encumbrance>
+<ID_Record>658914882778</ID_Record>
+<RegNumber>78-78-34/138/2011-132</RegNumber>
+<Type>022007000000</Type>
+<Name>Ипотека</Name>
+<ShareText>залог права аренды
+</ShareText>
+<RegDate>14.09.2011</RegDate>
+<Duration>
+<Started>01.12.2011</Started>
+<Term>по 01.12.2011</Term>
+</Duration>
+<Owner >
+<ID_Subject>154190816078</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;, ИНН: 7831000965</Content>
+<Name>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+<INN>7831000965</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>658914882978</ID_Document>
+<Content>Договор ипотеки oт 01.12.2010</Content>
+<Type_Document>010003000000</Type_Document>
+<Name>Договор ипотеки</Name>
+<Number>б/н</Number>
+<Date>01.12.2010</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914883478</ID_Record>
+<RegNumber>78-78-34/145/2012-016</RegNumber>
+<Type>022007000000</Type>
+<Name>Ипотека</Name>
+<ShareText>залог права аренды
+</ShareText>
+<RegDate>26.12.2012</RegDate>
+<Duration>
+<Stopped>16.12.2013</Stopped>
+<Term> по 16.12.2013</Term>
+</Duration>
+<Owner >
+<ID_Subject>154190816078</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;, ИНН: 7831000965</Content>
+<Name>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+<INN>7831000965</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>35620631178</ID_Document>
+<Content>Договор ипотеки oт 29.11.2012, дата регистрации 26.12.2012, №78-78-34/145/2012-016</Content>
+<Type_Document>010003006000</Type_Document>
+<Name>Договор ипотеки</Name>
+<Number>б/н</Number>
+<Date>29.11.2012</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914884778</ID_Record>
+<RegNumber>78-01-244/2001-237.2</RegNumber>
+<Type>022099000000</Type>
+<Name>Прочие ограничения (обременения)</Name>
+<ShareText>Зона магистральных канализационных сооружений, площадью 6 кв.м.
+</ShareText>
+<RegDate>21.11.2001</RegDate>
+<Duration>
+<Started>21.11.2001</Started>
+<Term>с 21.11.2001</Term>
+</Duration>
+<Owner >
+<ID_Subject>28450768278</ID_Subject>
+<Governance>
+<Code_SP>007001000000</Code_SP>
+<Content>Санкт-Петербург </Content>
+<Name>Санкт-Петербург </Name>
+<Country>Российская Федерация</Country>
+</Governance>
+</Owner>
+<DocFound>
+<ID_Document>658914884978</ID_Document>
+<Content>План границ земельного участка №б/н от 14.09.2001, утв.КЗРиЗ</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>План границ земельного участка</Name>
+<Number>б/н</Number>
+<Date>14.09.2001</Date>
+<IssueOrgan>утв.КЗРиЗ</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914885678</ID_Record>
+<RegNumber>78-01-244/2001-237.3</RegNumber>
+<Type>022099000000</Type>
+<Name>Прочие ограничения (обременения)</Name>
+<ShareText>Зона магистральных канализационных сооружений, площадью 241 кв.м.
+</ShareText>
+<RegDate>21.11.2001</RegDate>
+<Duration>
+<Started>21.11.2001</Started>
+<Term>с 21.11.2001</Term>
+</Duration>
+<Owner >
+<ID_Subject>28450768278</ID_Subject>
+<Governance>
+<Code_SP>007001000000</Code_SP>
+<Content>Санкт-Петербург </Content>
+<Name>Санкт-Петербург </Name>
+<Country>Российская Федерация</Country>
+</Governance>
+</Owner>
+<DocFound>
+<ID_Document>658914884978</ID_Document>
+<Content>План границ земельного участка №б/н от 14.09.2001, утв.КЗРиЗ</Content>
+<Type_Document>010007004000</Type_Document>
+<Name>План границ земельного участка</Name>
+<Number>б/н</Number>
+<Date>14.09.2001</Date>
+<IssueOrgan>утв.КЗРиЗ</IssueOrgan>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914886078</ID_Record>
+<RegNumber>78-01-244/2001-237.4</RegNumber>
+<Type>022099000000</Type>
+<Name>Прочие ограничения (обременения)</Name>
+<ShareText>Обеспечить беспрепятственный проезд-проход смежным земплепользователям.
+</ShareText>
+<RegDate>21.11.2001</RegDate>
+<Duration>
+<Started>21.11.2001</Started>
+<Term>с 21.11.2001</Term>
+</Duration>
+<DocFound>
+<ID_Document>658914886278</ID_Document>
+<Content>Договор аренды земельного участка с множественностью лиц со стороны арендатора №12/№Д-01263 от 01.11.2001</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор аренды</Name>
+<Number>12/№Д-01263</Number>
+<Date>01.11.2001</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914886478</ID_Record>
+<RegNumber>78-01-244/2001-237.5</RegNumber>
+<Type>022099000000</Type>
+<Name>Прочие ограничения (обременения)</Name>
+<ShareText>Обеспечить сохранность существующих подземных коммуникаций и сооружений и беспрепятственный доступ к ним эксплуатирующих организаций
+</ShareText>
+<RegDate>21.11.2001</RegDate>
+<Duration>
+<Started>21.11.2001</Started>
+<Term>с 21.11.2001</Term>
+</Duration>
+<DocFound>
+<ID_Document>658914886278</ID_Document>
+<Content>Договор аренды земельного участка с множественностью лиц со стороны арендатора №12/№Д-01263 от 01.11.2001</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор аренды</Name>
+<Number>12/№Д-01263</Number>
+<Date>01.11.2001</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914886778</ID_Record>
+<RegNumber>78-01-244/2001-237.1</RegNumber>
+<Type>022006000000</Type>
+<Name>Аренда</Name>
+<ShareText>Весь объект
+</ShareText>
+<RegDate>21.11.2001</RegDate>
+<Duration>
+<Started>21.11.2001</Started>
+<Stopped>16.07.2050</Stopped>
+<Term>с 21.11.2001 по 16.07.2050</Term>
+</Duration>
+<Owner >
+<ID_Subject>31478189678</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Закрытое акционерное общество &quot;Простор&quot;, ИНН: 7801061801</Content>
+<Name>Закрытое акционерное общество &quot;Простор&quot;</Name>
+<INN>7801061801</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>658914886278</ID_Document>
+<Content>Договор аренды земельного участка с множественностью лиц со стороны арендатора №12/№Д-01263 от 01.11.2001</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор аренды</Name>
+<Number>12/№Д-01263</Number>
+<Date>01.11.2001</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914880978</ID_Record>
+<RegNumber>78-78-34/034/2012-083</RegNumber>
+<Type>022007000000</Type>
+<Name>Ипотека</Name>
+<ShareText>залог права аренды земельного участка
+</ShareText>
+<RegDate>08.02.2012</RegDate>
+<Duration>
+<Stopped>14.12.2012</Stopped>
+<Term> по 14.12.2012</Term>
+</Duration>
+<Owner >
+<ID_Subject>154190816078</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;, ИНН: 7831000965</Content>
+<Name>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+<INN>7831000965</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>24961339578</ID_Document>
+<Content>Договор ипотеки oт 16.11.2011, дата регистрации 08.02.2012, №78-78-34/034/2012-083</Content>
+<Type_Document>010003006000</Type_Document>
+<Name>Договор ипотеки</Name>
+<Number>б/н</Number>
+<Date>16.11.2011</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914881578</ID_Record>
+<RegNumber>78-78-76/014/2013-391</RegNumber>
+<Type>022007000000</Type>
+<Name>Ипотека</Name>
+<ShareText>залог права аренды земельного участка (ЗАО &quot;Простор&quot;)
+</ShareText>
+<RegDate>17.01.2014</RegDate>
+<Duration>
+<Started>17.01.2014</Started>
+<Stopped>15.12.2014</Stopped>
+<Term>с 17.01.2014 по 15.12.2014</Term>
+</Duration>
+<Owner >
+<ID_Subject>154190816078</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;, ИНН: 7831000965</Content>
+<Name>Акционерное общество &quot;Петербургский социальный коммерческий банк&quot;</Name>
+<INN>7831000965</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>82134545778</ID_Document>
+<Content>Договор ипотеки oт 06.12.2013, дата регистрации 17.01.2014, №78-78-76/014/2013-391</Content>
+<Type_Document>010003006000</Type_Document>
+<Name>Договор ипотеки</Name>
+<Number>б/н</Number>
+<Date>06.12.2013</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>658914882278</ID_Record>
+<RegNumber>78-78-34/007/2014-193</RegNumber>
+<Type>022008000000</Type>
+<Name>Залог в силу закона</Name>
+<ShareText>Залог в силу закона права аренды
+</ShareText>
+<RegDate>01.05.2014</RegDate>
+<Duration>
+<Started>01.05.2014</Started>
+<Stopped>06.12.2018</Stopped>
+<Term>с 01.05.2014 по 06.12.2018</Term>
+</Duration>
+<Owner >
+<ID_Subject>381475210978</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Публичное акционерное общество &quot;Сбербанк России&quot;, ИНН: 7707083893</Content>
+<Name>Публичное акционерное общество &quot;Сбербанк России&quot;</Name>
+<INN>7707083893</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>91038644278</ID_Document>
+<Content>Договор об ипотеке (залоге) oт 02.04.2014, дата регистрации 01.05.2014, №78-78-34/007/2014-193</Content>
+<Type_Document>010003006000</Type_Document>
+<Name>Договор об ипотеке (залоге)</Name>
+<Number>б/н</Number>
+<Date>02.04.2014</Date>
+</DocFound>
+</Encumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842</Recipient>
+<ExtractDate>16.09.2020</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVZU>

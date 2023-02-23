@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_List/07/Common.xsl"?>
+<Extract>
+    <eDocument CodeType="112" Version="07" Scope="GKN">
+        <Sender Kod="00.0.4.195"
+                Name="ФГИС ЕГРН"
+                Region="99"
+                Date_Upload="2020-09-15"
+                Appointment="Государственный регистратор"
+                />
+        <Recipient Kod="00.0.4.111" Name="ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842" />
+    </eDocument>
+    <ReestrExtract>
+        <DeclarAttribute ID_KUVI="0"
+                         ExtractTypeCode="020000"
+                         ExtractTypeText="Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости"
+                         ExtractNumber="99/2020/348020623"
+                         ExtractDate="15.09.2020"
+                         RequeryNumber="80-154243264"
+                         RequeryDate="15.09.2020"
+                         ExtractCount="1"
+                         NoticeCount="0"
+                         RefuseCount="0"
+                         Registrator="ФГИС ЕГРН">
+            <ReceivName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842</ReceivName>
+            <ReceivAdress>не указан</ReceivAdress>
+        </DeclarAttribute>
+            <ExtractObjectRight>
+        <HeadContent>
+            <ID_REC_KUVI>0</ID_REC_KUVI>
+            <Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+            <DeptName>ФГИС ЕГРН</DeptName>
+            <ExtractTitle>Выписка из Единого государственного реестра недвижимости о переходе прав на объект недвижимости</ExtractTitle>
+            <Content>На основании запроса от 15.09.2020 г., поступившего на рассмотрение 15.09.2020 г., сообщаем, что в Единый государственный реестр недвижимости внесены записи о государственной регистрации перехода прав на:</Content>
+        </HeadContent>
+                <ExtractObject>
+    <ObjectDesc>
+        <ID_Object>6284280155</ID_Object>
+        <CadastralNumber>78:15:0008439:6346</CadastralNumber>
+        <ObjectType>002002002000</ObjectType>
+        <ObjectTypeText>Помещение</ObjectTypeText>
+        <Name></Name>
+        <Assignation_Code>005001000000</Assignation_Code>
+        <Assignation_Code_Text>Жилое</Assignation_Code_Text>
+        <Area>
+            <Area>51.6</Area>
+            <AreaText>51.6 кв.м</AreaText>
+        <Unit>012002001000</Unit>
+        </Area>
+        <FloorPlan_No>
+            <Explication>39</Explication>
+        </FloorPlan_No>
+        <Address>
+        <Content>Г. Санкт-Петербург, ул Козлова, д 39, корп 1, литера А, кв 39</Content>
+        <Region Name="Г. Санкт-Петербург" Code="78"/>
+        <Code_OKATO>40276562000</Code_OKATO>
+        <Code_KLADR>78000000000055600</Code_KLADR>
+    <Street Name="Козлова" Type="ул" />
+    <Level1 Name="39" Type="д" />
+    <Level2 Name="1" Type="корп" />
+    <Level3 Name="А" Type="литера" />
+    <Apartment Name="39" Type="кв" />
+        </Address>
+    </ObjectDesc>
+        <Owner OwnerNumber="1">
+    <ID_Subject>28450838278</ID_Subject>
+    <Governance>
+        <Code_SP>007001000000</Code_SP>
+        <Content>Санкт-Петербург</Content>
+        <Name>Санкт-Петербург</Name>
+        <Country>Российская Федерация</Country>
+    </Governance>
+        </Owner>
+    <Registration RegistrNumber="1">
+        <ID_Record>521750819878</ID_Record>
+        <RegNumber>40000006</RegNumber>
+        <Type>001001000000</Type>
+        <Name>Собственность</Name>
+        <RegDate>02.10.1997</RegDate>
+        <EndNumber>40000006</EndNumber>
+        <EndDate>16.06.2006</EndDate>
+    <DocFound>
+        <ID_Document>521750818778</ID_Document>
+        <Content>Договор передачи квартиры в собственность граждан №72374 от 03.05.2006</Content>
+        <Type_Document>010003003000</Type_Document>
+        <Name>Договор передачи квартиры в собственность граждан</Name>
+        <Number>72374</Number>
+        <Date>03.05.2006</Date>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="2">
+    <ID_Subject>277133747478</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Перепеч Олеся Алексеевна</Content>
+        <FIO>
+            <Surname>Перепеч</Surname>
+            <First>Олеся</First>
+            <Patronymic>Алексеевна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="2">
+        <ID_Record>521750819178</ID_Record>
+        <RegNumber>78-78-01/0311/2006-483</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/2</Name>
+        <RegDate>16.06.2006</RegDate>
+        <EndNumber>78-78-01/0311/2006-483</EndNumber>
+        <EndDate>12.07.2012</EndDate>
+        <ShareText>1/2</ShareText>
+    <DocFound>
+        <ID_Document>521750816978</ID_Document>
+        <Content>Договор купли-продажи квартиры oт 20.06.2012, дата регистрации 12.07.2012, №78-78-41/035/2012-340</Content>
+        <Type_Document>010003007000</Type_Document>
+        <Name>Договор купли-продажи квартиры</Name>
+        <Number>б/н</Number>
+        <Date>20.06.2012</Date>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="3">
+    <ID_Subject>122570444578</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Перепеч Алексей Станиславович</Content>
+        <FIO>
+            <Surname>Перепеч</Surname>
+            <First>Алексей</First>
+            <Patronymic>Станиславович</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="3">
+        <ID_Record>521750818378</ID_Record>
+        <RegNumber>78-78-01/0311/2006-483</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/2</Name>
+        <RegDate>16.06.2006</RegDate>
+        <EndNumber>78-78-01/0311/2006-483</EndNumber>
+        <EndDate>12.07.2012</EndDate>
+        <ShareText>1/2</ShareText>
+    <DocFound>
+        <ID_Document>521750816978</ID_Document>
+        <Content>Договор купли-продажи квартиры oт 20.06.2012, дата регистрации 12.07.2012, №78-78-41/035/2012-340</Content>
+        <Type_Document>010003007000</Type_Document>
+        <Name>Договор купли-продажи квартиры</Name>
+        <Number>б/н</Number>
+        <Date>20.06.2012</Date>
+    </DocFound>
+    </Registration>
+        <Owner OwnerNumber="4">
+    <ID_Subject>521750817978</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Краевая Татьяна Владимировна</Content>
+        <FIO>
+            <Surname>Краевая</Surname>
+            <First>Татьяна</First>
+            <Patronymic>Владимировна</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="4">
+        <ID_Record>521750817278</ID_Record>
+        <RegNumber>78-78-41/035/2012-341</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/2</Name>
+        <RegDate>12.07.2012</RegDate>
+        <ShareText>1/2</ShareText>
+    </Registration>
+        <Owner OwnerNumber="5">
+    <ID_Subject>62384821178</ID_Subject>
+    <Person>
+        <Code_SP>007003000000</Code_SP>
+        <Content>Журавков Илья Александрович</Content>
+        <FIO>
+            <Surname>Журавков</Surname>
+            <First>Илья</First>
+            <Patronymic>Александрович</Patronymic>
+        </FIO>
+    </Person>
+        </Owner>
+    <Registration RegistrNumber="5">
+        <ID_Record>521750816378</ID_Record>
+        <RegNumber>78-78-41/035/2012-341</RegNumber>
+        <Type>001002000000</Type>
+        <Name>Долевая собственность, 1/2</Name>
+        <RegDate>12.07.2012</RegDate>
+        <ShareText>1/2</ShareText>
+    </Registration>
+                </ExtractObject>
+        <FootContent>
+           <Recipient>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ &quot;РЕКЛАМНЫЕ ИНТЕРНЕТ ТЕХНОЛОГИИ&quot; ИНН 7709468842</Recipient>
+           <ExtractDate>15.09.2020</ExtractDate>
+           <Content>Использование сведений, содержащихся в настоящей выписке, способами или в форме, которые наносят ущерб правам и законным интересам правообладателей, влечет ответственность, предусмотренную законодательством Российской Федерации.</Content>
+        </FootContent>
+            </ExtractObjectRight>
+    </ReestrExtract>
+</Extract>

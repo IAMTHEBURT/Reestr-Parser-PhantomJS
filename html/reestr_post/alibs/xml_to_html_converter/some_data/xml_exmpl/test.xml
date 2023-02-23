@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.92">
+<channel>
+  <title>Mokka mit Schlag</title>
+  <link>http://www.elharo.com/blog</link>
+  <language>en</language>
+  <item>
+    <title>Penn Station: Gone but not Forgotten</title>
+    <description>
+     The old Penn Station in New York was torn down before I was born.
+     Looking at these pictures, that feels like a mistake.  The current site is
+     functional, but no more; really just some office towers and underground
+     corridors of no particular interest or beauty. The new Madison Square...
+    </description>
+    <link>http://www.elharo.com/blog/new-york/2006/07/31/penn-station</link>
+  </item>
+  <item>
+    <title>Personal for Elliotte Harold</title>
+    <description>Some people use very obnoxious spam filters that require you
+     to type some random string in your subject such as E37T to get through.
+     Needless to say neither I nor most other people bother to communicate with
+     these paranoids. They are grossly overreacting to the spam problem.
+     Personally I won't...</description>
+
+    <link>http://www.elharo.com/blog/tech/2006/07/28/personal-for-elliotte-harold/</link>
+  </item>
+</channel>
+</rss>

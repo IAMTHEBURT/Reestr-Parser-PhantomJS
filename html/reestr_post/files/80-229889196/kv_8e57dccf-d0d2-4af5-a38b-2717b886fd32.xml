@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl"?>
+
+<KPOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kpoks/4.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:flat="urn://x-artefacts-rosreestr-ru/commons/complex-types/assignation-flat/1.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Flat CadastralNumber="39:15:131828:520" State="01"
+DateCreated="2011-07-02"
+>
+<CadastralBlock>39:15:131828</CadastralBlock>
+<ObjectType>002001003000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumberOKS>39:15:131828:119</CadastralNumberOKS>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="02" Number="39:15:01 01 56:0003:27:401:001:100212070:0001:10072" />
+<num:OldNumber Type="02" Number="39:15:010156:0003:27:401:001:100212070:0001:10072" />
+</OldNumbers>
+<Assignation>
+<flat:AssignationCode>206002000000</flat:AssignationCode>
+<flat:AssignationType>205001000000</flat:AssignationType>
+</Assignation>
+<Area>59</Area>
+<Address>
+<adrs:OKATO>27401368000</adrs:OKATO>
+<adrs:KLADR>39000001000029500</adrs:KLADR>
+<adrs:Region>39</adrs:Region>
+<adrs:City Name="Калининград" Type="г" />
+<adrs:Street Name="Земельная" Type="ул" />
+<adrs:Level1 Type="д" Value="4" />
+<adrs:Apartment Type="кв" Value="72" />
+<adrs:Note>Калининградская область, г Калининград, ул Земельная, д 4, кв 72</adrs:Note>
+</Address>
+<PositionInObject>
+<Levels>
+<Level Number="4" Type="01">
+<Position NumberOnPlan="72">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+<CadastralCost Value="2867904.45" Unit="383" />
+<Notes>: Объект недвижимости с кадастровым номером 44:28:030150:53, и объект недвижимости 44:28:030150:27 являются одним объектом. Дублю, с кадастровым номером 44:28:030150:53 присвоен статус &quot;архивный&quot;.</Notes>
+</Flat>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2022-02-21</cer:Date>
+<cer:Number>99/2022/451136208</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="МСК-05" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2022-02-21"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Львов Иван Сергеевич" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2022/451136208"
+ExtractDate="21.02.2022"
+RequeryNumber="80-229889196"
+RequeryDate="21.02.2022"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Львов Иван Сергеевич</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 21.02.2022 г., поступившего на рассмотрение 21.02.2022 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>281353537939</ID_Subject>
+<Person>
+<Code_SP>007003000000</Code_SP>
+<Content>Кашинцева Регина Ивановна</Content>
+<FIO>
+<Surname>Кашинцева</Surname>
+<First>Регина</First>
+<Patronymic>Ивановна</Patronymic>
+</FIO>
+</Person>
+</Owner>
+<Registration >
+<ID_Record>281353537339</ID_Record>
+<RegNumber>39:15:131828:520-39/001/2018-2</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 39:15:131828:520-39/001/2018-2 от 17.04.2018</Name>
+<RegDate>17.04.2018</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>--. --.</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Львов Иван Сергеевич</Recipient>
+<ExtractDate>21.02.2022</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KPOKS>
